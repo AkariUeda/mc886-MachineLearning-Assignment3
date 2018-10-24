@@ -4,15 +4,17 @@ import sklearn
 import pandas as pd
 import numpy as np
 
-dataset = []
+data_file = sys.argv[1]
 
-for arq in os.listdir('./dataset'):
-    with open('./dataset/'+arq, 'r', errors='ignore') as f:
-        data = f.readlines()
-    d = []
-    for i in range(len(data)):
-        d.append(data[i].split('|',2))
-    dataset += d
-    print(len(dataset))
+dataset = pd.read_csv(data_file, header=None, sep=',')
+dataset = dataset.sample(frac=1)
 
-print(dataset[0])
+train_set = dataset.iloc[:int(len(dataset)*0.85), :]
+
+test_set = dataset.iloc[int(len(dataset)*0.85):, :]
+
+train_set.to_csv('train_set.csv')
+test_set.to_csv('test_set.csv')
+
+print("New train and test sets saved successfully!")
+
