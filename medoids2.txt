@@ -1,0 +1,421 @@
+(11244, 103)
+
+Medoids cluster 0 (size=126): #Irish face new #abortion debate over brain-dead woman
+   5 nearest points:
+          Dad charged over sick child prompts Aussie #marijuana debate
+          Texas woman suing over botched #hysterectomy
+          Abortion staff 'could face court'
+          #Irish face new #abortion debate over brain-dead woman
+          Growing alarm over new virus
+   5 random points:
+          Kenya women sue over sterilisation
+          Father's plea over baby feed death
+          Passenger alert over US Ebola nurse
+          Junior doctors in Sierra Leone strike over lack of #Ebola care
+          Family criticise trust over death
+
+Medoids cluster 1 (size=377): New blood test may be able to predict #Alzheimers disease with 90% accuracy. Would you want to know?
+   5 nearest points:
+          Your blood type may put you at risk for heart disease
+          RT @CNN: Is post-traumatic stress disorder in your genes? A simple blood test may one day help tell you
+          A new breath test for tuberculosis may be on the way:
+          New blood test may be able to predict #Alzheimers disease with 90% accuracy. Would you want to know?
+          A new breath test for tuberculosis may be on the way:
+   5 random points:
+          Brains may 'resist Alzheimer's'
+          Drinking milk 'may not protect bones'
+          Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+          Bleach may 'heal skin diseases'
+          Common Blood Pressure Med May Lower Risk of Dementia
+
+Medoids cluster 2 (size=480): RT @MolliePillman: A6: Eat seasonal - things that are local and in season usually have less chemicals, preservatives and support your farme…
+   5 nearest points:
+          A deadly bacteria is killing thousands, and it's now in doctor and dentist offices  @elizcohencnn @CDCgov
+          RT @MolliePillman: A6: Eat seasonal - things that are local and in season usually have less chemicals, preservatives and support your farme…
+          Your face only shows four emotions... and other things we learned this week
+          iReallyHateWhen I plan to wake up and exercise, and then I never do! 10 ways to motivate yourself tomorrow morning:
+          Canned foods, bicycles, and more surprising habits that are hurting his sex life:
+   5 random points:
+          5 ways sex gets better with age
+          Habits -- good or bad! -- stick when you're stressed
+          Trying to lose weight? Add one of these fat-burning foods to your cabinet:
+          Feeling less than festive this holiday season? Here are a few easy ways to beat holiday blues.
+          9 deliciously healthy reasons to eat dark chocolate:
+
+Medoids cluster 3 (size=344): .@WHO says #Ebola outbreak in West Africa is one of the "most challenging" they've ever faced
+   5 nearest points:
+          .@WHO says #Ebola outbreak in West Africa is one of the "most challenging" they've ever faced
+          West Africa sees spike in #Ebola cases as decline stalls, WHO says
+          WHO #Ebola response chief says virus still spreading due to lack of change in behaviors
+          What's it like inside the Ebola hotzone? An American doctor who had Ebola is back in Africa
+          Donors and WHO responded too slowly to West Africa #Ebola outbreak, report says
+   5 random points:
+          Liberia 'buckles under ebola strain'
+          Ebola drug trial starts in Liberia
+          Ebola vaccine trial suspended after side effects
+          .@WHO says #Ebola outbreak in West Africa is one of the "most challenging" they've ever faced
+          Dozens monitored for Ebola in Mali
+
+Medoids cluster 4 (size=414): VIDEO: Why Movember is big news in Indonesia
+   5 nearest points:
+          VIDEO: Is your shepherd's pie big enough?
+          VIDEO: Why Movember is big news in Indonesia
+          VIDEO: Movember bandito' MPs in Commons
+          VIDEO: How trials helped patients in 2014
+          VIDEO: 'It's hard to see your mum in pain'
+   5 random points:
+          VIDEO: Dementia friendly design
+          VIDEO: Cancer cases to soar, warns WHO
+          VIDEO: Women not aware of stroke risk
+          VIDEO: Chikungunya virus hits Caribbean
+          VIDEO: Health surcharge for non-EU patients
+
+Medoids cluster 5 (size=479): What is good for your heart, may lift your mood, will help you live longer and tastes delicious? Find out here:
+   5 nearest points:
+          What is good for your heart, may lift your mood, will help you live longer and tastes delicious? Find out here:
+          What's your commute like? Does it affect your mood? Email elizabeth.landau@turner.com and you could be part of a #CNN story!
+          Looking to sculpt your legs? @jillianmichaels demonstrates three exercises for you to tone your inner and outer thighs
+          Do your friends hurt or help your #health? Maybe it's time to find friends who will support an active lifestyle
+          Are your #friends making you #fat? Here's how to stop the cycle, and keep your friends:
+   5 random points:
+          Apparently there's a proper way to pick your nose:
+          RT @CNN: Did you know crafting can protect against aging &amp; help with anxiety? This is your brain on knitting:
+          RT @CNN: Did you know crafting can protect against aging &amp; help with anxiety? This is your brain on knitting:
+          10 foods that boost your skin AND slim your waistline:
+          What's in your energy drink?
+
+Medoids cluster 6 (size=558): RT @PlantDietitian: @EverydayHealth Thank you for hosting this tweet chat! I am from Los Angeles...Ready and excited to talk all things #vegan! #healthtalk
+   5 nearest points:
+          Aaand we're out of time! Thank you to @NPF for co-hosting today's #HealthTalk! And thank you to everyone who participated
+          RT @dreenaburton: @EverydayHealth thank you for having us! We are excited to help others go vegan in good health! #healthtalk
+          RT @PlantDietitian: @EverydayHealth Thank you for hosting this tweet chat! I am from Los Angeles...Ready and excited to talk all things #vegan! #healthtalk
+          Thank you so much to @CSPI for joining us this afternoon and a big thanks to everyone who participated! #HealthTalk
+          RT @eatsmartbd: @EverydayHealth Thank you for letting me share some thoughts with you! Look forward to coming back to chat at #healthtalk
+   5 random points:
+          .@PamLicavoli @CNN @alzassociation Join us here!
+          RT @DanyaNasser: @EverydayHealth Love grocery shopping when there's a lot of healthy options! Reading nutrition facts is my Fav:)#Healthtalk #ReadItB4UEatIt
+          @christyschomp TY as always for joining us!! #HealthTalk
+          RT @EinsteinMed: A4: U can reduce ur risk of type 2 diabetes by maintaining a normal body weight &amp; exercising regularly–DrC #healthtalk
+          Looks like we're out of time! Thank you @RMichlerMD @montefioreNYC @foundersheart &amp; everyone who participated! #healthtalk
+
+Medoids cluster 7 (size=266): . @ccivita there is a spinal tap test available that is said to be 90% accurate in predicting alz. –SG
+   5 nearest points:
+          RT @cnntech: The next frontier in 3-D printing is human organs. But is it ethical?
+          How is someone supposed to be able to afford the help that everyone keeps saying is out there? #depression chat:
+          Attention, sperm: Processed meat is bad, fish is good, new study suggests
+          Feeling down? It’s easy to blame our winter blues on seasonal affective disorder. But is that the whole story?
+          . @ccivita there is a spinal tap test available that is said to be 90% accurate in predicting alz. –SG
+   5 random points:
+          Is advertising to blame for underage drinking?
+          RT @84lbs84days: A1 By providing means and snacks that promote their healthy growth! Cost is not a question when overall health is at stake. #healthtalk
+          Is oral sex safe? So glad you asked:
+          Losing the ability to think is terrifying, but Sandy is fighting back
+          VIDEO: What is Generalised Anxiety Disorder?
+
+Medoids cluster 8 (size=343): Children exposed to this drug while in the womb face a higher risk of developing behavior problems:
+   5 nearest points:
+          Children exposed to this drug while in the womb face a higher risk of developing behavior problems:
+          Children exposed to this drug while in the womb face a higher risk of developing behavior problems:
+          Children exposed to cigarette smoke while growing up face nearly double the risk of developing this:
+          Study links rotating night shift work to higher risk of cardiovascular disease in women
+          Children born to obese moms may face higher risk of this:
+   5 random points:
+          Hibernating hints at dementia therapy
+          .@NASCAR driver diagnosed with multiple sclerosis
+          'Infection risk' at piercing clinic
+          PM 'will not lower age of consent'
+          US test tube births underreported by states, study finds
+
+Medoids cluster 9 (size=39): 9 eating habits that pack on the pounds:
+   5 nearest points:
+          9 eating habits that pack on the pounds:
+          9 eating habits that pack on the pounds:
+          9 eating habits that pack on the pounds:
+          9 eating habits that pack on the pounds:
+          9 eating habits that pack on the pounds:
+   5 random points:
+          9 eating habits that pack on the pounds:
+          9 eating habits that will pack on the pounds:
+          Binge eater loses 70 pounds
+          Could bulk-buying save NHS pounds?
+          9 eating habits that pack on the pounds:
+
+Medoids cluster 10 (size=735): Is your fav food the worst for #IBD? Let nutrition expert @joybauer remake the recipe you love! Reply with your dish and #joyrecipemakeover
+   5 nearest points:
+          Is your fav food the worst for #IBD? Let nutrition expert @joybauer remake the recipe you love! Reply with your dish and #joyrecipemakeover
+          RT @NPF: A3: Treating #psoriasis varies depending on the severity of the disease. Work with your doctor to find what’s best for you #healthtalk
+          You count calories, hit the gym and lose 1 lb. Your hubby drops 10 doing nothing. What's up with that??http://www.cnn.com/2014/02/20/health/upwave-weight-gender/index.html via @upwave
+          RT @eatsmartbd: Yes! Self interest is not being selfish! RT @SSDdotTV: A9: healthier you are, the longer you'll be around for your loved ones. #HealthTalk
+          RT @dreenaburton: If you missed the #healthtalk chat with Everyday Health and Plant-Based Dietitian, the transcript is here:...
+   5 random points:
+          RT @sueisme: Why I write about mental illness and my response to the @CNN trolls.
+          Do these guys have the secret to growing old slowly?
+          The best foods to boost low blood sugar
+          He's not in the #mood? These 7 surprising #turnoffs may be to blame:
+          RT @eatsmartbd: Here's where the darker the better works! RT @LiveItCoach: A5 Dark Chocolate! #VDay #healthtalk #healthtalk
+
+Medoids cluster 11 (size=361): Family hears son’s heart beat in Vietnam vet’s chest after life-saving transplant
+   5 nearest points:
+          Georgia girl, 3, in need of heart transplant after receiving rare diagnosis
+          Family hears son’s heart beat in Vietnam vet’s chest after life-saving transplant
+          Man’s heart damaged after swallowing razor blade lodged in bread 
+          Three men first to get reconstructed bionic hands after amputation
+          Woman experiences unexpected, rapid weight gain after fecal transplant procedure
+   5 random points:
+          VIDEO: Donor found for boy after appeal
+          Boy survives after having nail scissors lodged in his heart
+          Payout to hysterectomy patient, 19
+          VIDEO: Womb transplant baby gives 'hope'
+          Woman who thought she was suffering from a broken heart actually had brain infection
+
+Medoids cluster 12 (size=272): The FDA has approved a novel type of flu vaccine that is easier to produce quickly and in large quantities #flu:
+   5 nearest points:
+          RT @CNNMoney: Tyson shares dropped after officials confirmed cases of bird flu in the U.S.
+          Hong Kong halts some US poultry imports due to bird #flu in US
+          Woman, child die of bird flu in Egypt, five deaths so far this year
+          CDC worries mosquito-borne virus could hit U.S. after major outbreak in the Caribbean.
+          The FDA has approved a novel type of flu vaccine that is easier to produce quickly and in large quantities #flu:
+   5 random points:
+          Deaf man treated as dementia patient
+          Chicken still on menu, @WHO tells China as bird flu spreads
+          A tenth patient has now been diagnosed SARS-like virus. Could it be the next epidemic? #epidemic #sars
+          . @WHO: Polio cases confirmed in #Syria
+          Flu cases 'highest for three years'
+
+Medoids cluster 13 (size=217): Childhood mental health disabilities increased 21% over a 10-year period. Why?
+   5 nearest points:
+          Childhood mental health disabilities increased 21% over a 10-year period. Why?
+          Clegg sets mental health wait limits
+          Anger over #mental #health budget cuts
+          Concern over new mums' mental health
+          Have you traveled to #Seattle lately? Health officials investigating #measles case at the airport:
+   5 random points:
+          Mental health ward is investigated
+          Obese Kids Face Earlier Health Risks
+          Debunking spring #health myths
+          Anger over #mental #health budget cuts
+          VIDEO: 'Make mental health bigger priority'
+
+Medoids cluster 14 (size=308): RT @drsanjaygupta: how did the director of the CDC decide to bring a patient with ebola to the US? I asked him.
+   5 nearest points:
+          .@sllibog The patient traveled from Liberia to Texas. He was visiting family in the U.S. #EbolaQandA
+          A new gadget developed at the Mayo Clinic prevents stomach acid from entering the esophagus:
+          RT @drsanjaygupta: how did the director of the CDC decide to bring a patient with ebola to the US? I asked him.
+          Why hasn't the FDA released the brand name of tainted salad mix linked to cyclospora? @drsanjaygupta explains
+          Top officials at the Phoenix VA denied the existence of a secret patient waiting list. Doctors says they're lying.
+   5 random points:
+          She did the first ever human laser eye surgery
+          And the food that's the most filling for the calories is ...
+          RT @TriHardDouglas: @CNNFitNation @TheLovettSchool it seems like the goals of Lovett &amp; the goals of a tri are 1 in the same. #TriWit ...
+          Living with the 'opposite of autism'
+          The surprising truth about the Freshman 15:
+
+Medoids cluster 15 (size=116): Who knew? Copper in hospital rooms may stop infections
+   5 nearest points:
+          Who knew? Copper in hospital rooms may stop infections
+          #Oregon hospital patients burned by lights in operating rooms
+          Woman who worked with #Ebola patients monitored at #NJ hospital
+          AUDIO: Cancer victim gives to hospital that failed her
+          AUDIO: Three days in a hospital stock room
+   5 random points:
+          Family want hospital death answers
+          Fertility clinic at hospital reopens
+          Hospital admits failings over death
+          VIDEO: PM challenged on girl's hospital letter
+          NHS urged to 'take back' hospital
+
+Medoids cluster 16 (size=260): Yoga helps not only keep you fit, but it can help your heart and mind too, a new study finds:
+   5 nearest points:
+          RT @NPF: A4: Be proactive and learn about your #psoriasis. Being an informed patient can help you cope with the disease. #healthtalk
+          Yoga helps not only keep you fit, but it can help your heart and mind too, a new study finds:
+          You may not be Meryl Streep but you're doing your best to age gracefully. These tips can help:
+          RT @TIMEHealthland: Can caring for aging parents hurt your career and paycheck?
+          Did you know that microwave popcorn can be toxic to your health? @Joybauer shares how you can safely enjoy this snack:
+   5 random points:
+          These conversational hiccups aren't abating, they're getting worse
+          Q2: #Heart disease affects many people but risk factors can be improved through lifestyle changes. Can you guess what they are? #HealthTalk
+          Record your voice for loved ones while you still can @CDCgov launches 2nd anti-smoking campaign
+          Cigarette package law brought forward
+          Got #allergies? Treat 'em fast
+
+Medoids cluster 17 (size=599): Any advice for @culberd? I have a 15 yr old boy who is bipolar. He won't stay on meds. My family wants me to send him away #CNNParents
+   5 nearest points:
+          .@HPutt @CDCgov warns against any nonessential travel to the region but has not banned outright. Quarantine period is 3 wks for #Ebola
+          Any advice for @culberd? I have a 15 yr old boy who is bipolar. He won't stay on meds. My family wants me to send him away #CNNParents
+          Interesting! RT @cspi: A9 Buffalo Wild Wings and Applebee's both had some pretty extreme dishes. #healthtalk
+          RT @JoshLevs: Read, see, &amp; hear recovered U.S. #Ebola patient describe how he feels as discharged from hospital:
+          Man gets #bionic eye, sees family for first time in 10 years
+   5 random points:
+          Texas woman, 104, enjoys 3 Dr. Peppers a day  
+          RT @SharonMazel: @cnnhealth depends if he gets gets his own bathroom or not. 501 days in space with your spouse?
+          Analysis: Assisted dying debate
+          Online yoga apps, classes take off  
+          Robot exoskeleton helps this 4-year-old girl lift her arms for the first time
+
+Medoids cluster 18 (size=530): Pls ignore that last tweet -- wrong headline alert! Government reverses plan to cut Medicare Advantage rate
+   5 nearest points:
+          Pls ignore that last tweet -- wrong headline alert! Government reverses plan to cut Medicare Advantage rate
+          Jerry #Sandusky convicted in sex abuse trial. How childhood sexual abuse can have long-term effects on victims:
+          .@Jayteee420 Docs talking w/ him about options (ZMapp or other experimental drug TKM-Ebola) He could say no as drugs not proven #EbolaQandA
+          RT @AHANewJersey: All strokes are emergencies--even if the symptoms disappear.  Call 9-1-1 FAST! @StevenSternberg  #strokechat
+          RT @AllergyReliefNY: .@cnnhealth @kinsa Wear a hat &amp; big sunglasses espec on windy days to keep pesky pollen from eyes &amp;nose, wash hair/fac…
+   5 random points:
+          Cholera will plague Haiti until water, sanitation crisis solved, experts say 
+          Retired pastor credits recovery from 6 brain tumors to his faith in #God
+          Hollande to visit Ebola-hit Guinea
+          Answers to common questions about HIV, needles and drug use
+          'Ban fruit juice from five-a-day'
+
+Medoids cluster 19 (size=598): Cost of friends &amp; relatives caring for elderly in U.S. = $522 billion a year, @RANDCorporation says. Are you one of these unseen workers?
+   5 nearest points:
+          Cost of friends &amp; relatives caring for elderly in U.S. = $522 billion a year, @RANDCorporation says. Are you one of these unseen workers?
+          #Flu vaccine makers say there's no shortage. Are you seeing one in your town?
+          Boston declares a health emergency as the flu outbreak hits 41 states. Find out how many people are sick so far:
+          RT @eddierobbins: @cnnhealth HIGH deductibles in "affordable" healthcare. Yes, some premiums are cheap but people are SHOCKED when they fin…
+          Why are we so afraid #Ebola will kill us all? Because we've seen it happen time and again on the big screen:
+   5 random points:
+          Which personality type is the most likely to lend a helping hand? A recent study found out:
+          Runners need #yoga. No time for a class? Try these 3 poses from @MobilityMaker
+          RT @CEP_America: It’s like Uber, for house calls! @CNNHealth shares how some #apps are helping patients avoid long waits in the #ED:
+          Mexico restricts soft drink TV ads
+          Ex-Stafford chief nurse 'struck off'
+
+Medoids cluster 20 (size=549): RT @EinsteinMed: A7: It has been used for over 40 years and is safe for most people with diabetes.-DrC #healthtalk
+   5 nearest points:
+          RT @EinsteinMed: A7: It has been used for over 40 years and is safe for most people with diabetes.-DrC #healthtalk
+          RT @hollyejacobs: @EverydayHealth A3: In choosing treatment for #cancer DON'T google. Ask Dr. for places to research and learn about treatment. #HealthTalk
+          RT @NPF: What works for one person with #psoriasis might not work for another. Keep trying until you find the right regimen for you #healthtalk
+          A high dose of the #measles virus put this woman's #cancer into remission. Will it work for others?
+          Staring Down #Cancer: ’Tis the season for generosity: What you can do for people in treatment
+   5 random points:
+          Relaxation tips for busy people:
+          How to pose for photos
+          Even in nursing, no equal pay for women 
+          Call to ban energy drinks for kids
+          10 worst cities for fall #allergy sufferers
+
+Medoids cluster 21 (size=235): VIDEO: NHS to pay for Ashya King's treatment
+   5 nearest points:
+          VIDEO: NHS staff set off to help fight Ebola
+          VIDEO: NHS to pay for Ashya King's treatment
+          VIDEO: NHS pay: Staff morale is 'dreadful'
+          VIDEO: NHS: Labour and Tory key policies
+          VIDEO: MP's bill to 'put right NHS mistakes'
+   5 random points:
+          New patient targets pledge for NHS
+          Public 'back tax rises to fund NHS'
+          England 'being caught up on NHS'
+          NHS deal on branded-medicine cost
+          New NHS boss backs smaller hospitals
+
+Medoids cluster 22 (size=183): America's emergency care system gets a big 'ol D+ for 2013. Do you agree?
+   5 nearest points:
+          RT @ASH_hematology: Clinton's #bloodclot "relatively rare," Dr. Mary Cushman, Chair of ASH Subcmte on Quality of Care, tells @CNNHealth: ...
+          RT @lizlandau: US gets a D+ for failing to support emergency care patients, report says #health
+          #Obamacare rules differ for kids in the #foster care system
+          America's emergency care system gets a big 'ol D+ for 2013. Do you agree?
+          One in five care homes 'fail key test'
+   5 random points:
+          Doctors 'right' to stop patient care
+          Eleven care home staff suspended
+          VIDEO: Steve Evans moves to palliative care
+          Better care plan for neuro patients
+          Ministers target NHS weekend care
+
+Medoids cluster 23 (size=287): #Mammograms now in 3D, and they can increase invasive breast #cancer detection rates by as much as 40 percent.
+   5 nearest points:
+          #Mammograms now in 3D, and they can increase invasive breast #cancer detection rates by as much as 40 percent.
+          For women with early stage breast cancer, minimally invasive surgery may be better than mastectomy, says new study.
+          Advanced #breast #cancer rates rising in women under 40
+          More evidence breast cancer and prostate cancer cluster in families 
+          IUD may carry higher risk for breast cancer in certain women
+   5 random points:
+          Cancer waiting times inquiry begins
+          Apology for cancer diagnosis delay
+          #AngelinaJolie’s latest surgery may inspire future ovarian cancer screening
+          Cancer survivor's 'anti-bucket list'
+          #Cancer organization partners with #NFL on prostate treatment
+
+Medoids cluster 24 (size=255): Hey @NACCHOalerts leaders: Show us how your city inspires healthy habits, and you could be on @CNN!
+   5 nearest points:
+          Hey @NACCHOalerts leaders: Show us how your city inspires healthy habits, and you could be on @CNN!
+          Head lice don't take the summer off! How you can prevent and treat 'em
+          Are you a stress-eater? Here's how to ban emotional eating from your diet:
+          RT @LavedaDeLisser: I've started with yoga! How 'bout you? "@cnnhealth: Good morning! Are you starting the week off right? Show us how you'…
+          Hey @NACCHOalerts leaders: Show us how your city inspires healthy habits, and you could be on @CNN!
+   5 random points:
+          VIDEO: How hens help beat social isolation
+          How to tell if you're really having an orgasm
+          Runny nose? Watery eyes? Sore throat? Learn how to NOT catch a cold next time around
+          How a dying baby was revived by a ‘last hug’
+          'I quit quitting' &amp; lost 200 lbs in 9 months
+
+Medoids cluster 25 (size=550): RT @jdwilson2: Do you have a favorite T-shirt you just can't give up? Share a pic &amp; what it says about you using #TshirtTales
+   5 nearest points:
+          RT @jdwilson2: Do you have a favorite T-shirt you just can't give up? Share a pic &amp; what it says about you using #TshirtTales
+          RT @ShawnJohnson: @cnnhealth mix it up and have fun!! Exercise should be something you look forward to!
+          Do you have #autism or a loved one on the ASD spectrum? How do you communicate? Share your story w/ @cnnireport
+          RT @PresJrCouncil: @deebeachgirl @cnnhealth Totally worth it! "You are what you eat. What do you want to be?" #betterinbalance
+          If you want to tone up and lose weight you will love this fast-paced fat shedding workout:
+   5 random points:
+          Are you really taking care of your #heart?
+          Do you consider yourself a heavy drinker? @CDCgov might
+          Get the 411 on Pilates - and find out if you should try it:
+          Could you have 'spanx syndrome?'
+          RT @DanyaNasser: @EverydayHealth A7 :Make sure you have a stack of heart healthy food at home!Go out for a run more often,Let your heart breathe #Healthtalk
+
+Medoids cluster 26 (size=923): RT @kellywallacetv: What's the advice when your child wants to stop a physical activity &amp; you know it's good for them to keep doing it? #fi…
+   5 nearest points:
+          RT @DavidKirsch: @cnnhealth they know that movement is good for their body - heart, brain and muscles.  and they like doing it too! #fitfam…
+          Is your child getting enough sleep? @LivingWellDoc shares tips that will make for a happier baby in the a.m.
+          RT @kellywallacetv: What's the advice when your child wants to stop a physical activity &amp; you know it's good for them to keep doing it? #fi…
+          Did you pour your kids a big bowl of cereal this morning? It may have TOO MANY vitamins for their small bodies
+          RT @Editaraelira: @EverydayHealth Keep myself &amp; everybody that I love always healthy as I've been doing for about three years :) #healthtalk
+   5 random points:
+          I was tired of people laughing See what he looks like now after losing 220 lbs:
+          Happy World #Health Day! @BrettHoebel is here to help you prevent high blood pressure
+          I hired someone with Asperger's. Now what?
+          Perhaps you've heard of this whole "clean eating" thing? Learn what it is and how you can use it in your life
+          Take a break from sitting, please
+
+Medoids cluster 27 (size=39): Everyday Health Daily Digest is out!
+   5 nearest points:
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+   5 random points:
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Everyday Health Daily Digest is out!
+          Puffed out?
+
+Medoids cluster 28 (size=288): Gun violence in PG-13 movies has more than tripled since 1985. Do you let your kids watch violent films?
+   5 nearest points:
+          It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+          Gun violence in PG-13 movies has more than tripled since 1985. Do you let your kids watch violent films?
+          It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+          More than 1 in 3 U.S. adults have prediabetes, and the numbers are rising. Learn how to eat to lower your risk:
+          RT @cnni: You sent in more than 1,000 questions about #Ebola. We put your top concerns to our experts:
+   5 random points:
+          Tooth decay is 4x more common than childhood #asthma. How your kid's pediatrician can help:
+          More and more U.S. children are being diagnosed with attention-deficit/hyperactivity disorder #ADHD:
+          The real secret to a healthy complexion? Eating more of these:
+          Obese girls more likely to develop this #disease
+          Older men who exercise more have better erectile function 
+
+Medoids cluster 29 (size=513): RT @RachelBegunRD: A1 Fact: Heart disease is THE leading cause of death for both men AND women. It is responsible for 1 in 4 deaths in America #healthtalk
+   5 nearest points:
+          RT @cnnbrk: Three scientists share Nobel Prize in Medicine for work on cells that form a positioning system in brain.
+          RT @RachelBegunRD: A1 Fact: Heart disease is THE leading cause of death for both men AND women. It is responsible for 1 in 4 deaths in America #healthtalk
+          RT @EinsteinMed: A1: Type 2 is most common in middle aged or older adults, but can be seen in obese children and teenagers. -Dr. C. #healthtalk
+          68 #measles cases in Ohio add to 18-year high for U.S. Distrubing news for a disease "eliminated" in 2000
+          RT @RachelBegunRD: A3: food substitutions impt: use Greek yogurt in dips; apple sauce in lieu of fat in baked goods; mushrooms for meaty flavor #healthtalk
+   5 random points:
+          Thalidomide victims in new legal bid
+          Brain finds true beauty in maths
+          What’s different about #asthma in older adults
+          One in five 'admits misusing A&amp;E '
+          9 kids in Colorado hospitalized with muscle weakness in limbs. Is enterovirus to blame?
