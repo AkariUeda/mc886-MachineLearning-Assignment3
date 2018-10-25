@@ -5,8 +5,10 @@ import pandas as pd
 import numpy as np
 
 data_file = sys.argv[1]
+original_tweets = sys.argv[2]
 
 dataset = pd.read_csv(data_file, header=None, sep=',')
+
 dataset = dataset.sample(frac=1)
 
 train_set = dataset.iloc[:int(len(dataset)*0.85), :]
