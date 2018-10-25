@@ -23,6 +23,7 @@ print(__doc__)
                   random_state=1)  # For reproducibility
 '''
 X = pd.read_csv('train_set.csv')
+X = np.array(X)[:,1:]
 range_n_clusters = [2, 3, 4, 5, 6, 7]
 
 for n_clusters in range_n_clusters:
@@ -33,7 +34,7 @@ for n_clusters in range_n_clusters:
     # The 1st subplot is the silhouette plot
     # The silhouette coefficient can range from -1, 1 but in this example all
     # lie within [-0.1, 1]
-    ax1.set_xlim([-0.1, 1])
+    ax1.set_xlim([-0.5, 0.5])
     # The (n_clusters+1)*10 is for inserting blank space between silhouette
     # plots of individual clusters, to demarcate them clearly.
     ax1.set_ylim([0, len(X) + (n_clusters + 1) * 10])
@@ -83,8 +84,6 @@ for n_clusters in range_n_clusters:
     # The vertical line for average silhouette score of all the values
     ax1.axvline(x=silhouette_avg, color="red", linestyle="--")
 
-    ax1.set_yticks([])  # Clear the yaxis labels / ticks
-    ax1.set_xticks([-0.1, 0, 0.2, 0.4, 0.6, 0.8, 1])
 
     plt.suptitle(("Silhouette analysis for KMeans clustering on sample data "
                   "with n_clusters = %d" % n_clusters),
