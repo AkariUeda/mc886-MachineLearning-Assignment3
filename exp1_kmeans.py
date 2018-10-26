@@ -20,7 +20,7 @@ import sklearn.datasets
 from sklearn.preprocessing import StandardScaler
 
 
-def compute_bic(kmeans,X):
+def compute_bic(kmeans, X):
     """
     Computes the BIC metric for a given clusters
 
@@ -37,35 +37,41 @@ def compute_bic(kmeans,X):
     # print(X)
     # assign centers and labels
     centers = [kmeans.cluster_centers_]
-    labels  = kmeans.labels_
-    #number of clusters
+    labels = kmeans.labels_
+    # number of clusters
     m = kmeans.n_clusters
     # size of the clusters
     n = np.bincount(labels)
-    #size of data set
+    # size of data set
     N, d = X.shape
 
-    #compute variance for all clusters beforehand
+    # compute variance for all clusters beforehand
     cl_var = (1.0 / (N - m) / d) * sum([sum(distance.cdist(X[np.where(labels == i)], [centers[0][i]],
-             'euclidean')**2) for i in range(m)])
+                                                           'euclidean')**2) for i in range(m)])
 
     const_term = 0.5 * m * np.log(N) * (d+1)
 
     BIC = np.sum([n[i] * np.log(n[i]) -
-               n[i] * np.log(N) -
-             ((n[i] * d) / 2) * np.log(2*np.pi*cl_var) -
-             ((n[i] - 1) * d/ 2) for i in range(m)]) - const_term
+                  n[i] * np.log(N) -
+                  ((n[i] * d) / 2) * np.log(2*np.pi*cl_var) -
+                  ((n[i] - 1) * d / 2) for i in range(m)]) - const_term
 
     return(BIC)
 
 
-train_set = pd.read_csv('train_set.csv')
-train_set = np.array(train_set)[:,1:]
+#train_set = pd.read_csv('train_set.csv')
+train_set = pd.read_csv('dataset/bags.csv', header=None)
+print(train_set.head())
+train_set = np.array(train_set)[:, 1:]
+print(train_set)
+#scaler = StandardScaler()
+#train_set = scaler.fit_transform(train_set, y=None)
 
 sse = []
 bic_values = []
 sil_values = []
-cluster_range = range(2, 201, 1)
+cluster_range = [2, 10, 30, 40, 50, 60, 70, 100,
+                 200, 300, 400, 500, 600, 800, 900, 1000, 2000]
 
 for i in cluster_range:
     kmeans = KMeans(
