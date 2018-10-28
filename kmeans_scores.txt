@@ -1,0 +1,60 @@
+For n_clusters = 2
+Bic: 34041445.28013335
+The average silhouette_score is : 0.009020426012534067
+The average calinski harabaz score is: 120.86517051190141
+
+For n_clusters = 10
+Bic: 34283380.85591444
+The average silhouette_score is : 0.022237115332117356
+The average calinski harabaz score is: 71.10822082057747
+
+For n_clusters = 30
+Bic: 34537045.177368045
+The average silhouette_score is : 0.03485342305266311
+The average calinski harabaz score is: 45.49591791908437
+
+For n_clusters = 40
+Bic: 34673712.217802264
+The average silhouette_score is : 0.04179206798209012
+The average calinski harabaz score is: 43.244146583646796
+
+For n_clusters = 50
+Bic: 34731730.297741376
+The average silhouette_score is : 0.0458293557255003
+The average calinski harabaz score is: 38.946710435879396
+
+For n_clusters = 60
+Bic: 34740045.44195805
+The average silhouette_score is : 0.044976554685983376
+The average calinski harabaz score is: 34.45780059130698
+
+For n_clusters = 70
+Bic: 34833012.28341211
+The average silhouette_score is : 0.050856954840167876
+The average calinski harabaz score is: 33.72351633128226
+
+For n_clusters = 100
+Bic: 34872638.48742906
+The average silhouette_score is : 0.04173387868849602
+The average calinski harabaz score is: 27.708414019642976
+
+For n_clusters = 200
+Bic: 34948920.23143909
+The average silhouette_score is : 0.062399685568470385
+The average calinski harabaz score is: 20.510361167018598
+
+For n_clusters = 300
+Bic: 34957482.51968534
+The average silhouette_score is : 0.07105167836955614
+The average calinski harabaz score is: 17.911724707128407
+
+For n_clusters = 400
+Bic: 34835935.894512944
+The average silhouette_score is : 0.07819214894532678
+The average calinski harabaz score is: 16.003173553116216
+
+For n_clusters = 500
+Bic: 34638329.87445944
+The average silhouette_score is : 0.08474860256865316
+The average calinski harabaz score is: 14.560778105691707
+
