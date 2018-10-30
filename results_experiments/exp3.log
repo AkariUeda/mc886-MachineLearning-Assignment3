@@ -1,0 +1,329 @@
+Reading dataset...
+Dataset loaded successfully!
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.030058767080197293, davies_bouldin_score:3.4125465695581196, calinski_harabaz_score=6.612265334309882
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.017274924922814842, davies_bouldin_score:3.470062117207457, calinski_harabaz_score=6.149174497256753
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03545213791305991, davies_bouldin_score:3.442397985166003, calinski_harabaz_score=6.091288547785746
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.026496351516638143, davies_bouldin_score:3.62642439191239, calinski_harabaz_score=5.97947286871907
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.022333225838190036, davies_bouldin_score:3.416826535822236, calinski_harabaz_score=6.697684479705196
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.021667995356480275, davies_bouldin_score:3.527147068055341, calinski_harabaz_score=6.15960765374293
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.024653348675278318, davies_bouldin_score:3.4687067042569715, calinski_harabaz_score=5.849022124773389
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.03673743294272799, davies_bouldin_score:3.6677902198108416, calinski_harabaz_score=6.051457809852334
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.027723747453735462, davies_bouldin_score:3.516638375813314, calinski_harabaz_score=6.576346795518018
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.023399667523283034, davies_bouldin_score:3.4685950103335856, calinski_harabaz_score=6.311744477021246
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03867632399941064, davies_bouldin_score:3.686628449456647, calinski_harabaz_score=6.0571406644741925
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.03667082124968484, davies_bouldin_score:3.4812546895525416, calinski_harabaz_score=6.002596011529002
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.011562555537767335, davies_bouldin_score:3.4286311201178594, calinski_harabaz_score=6.500784158556193
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.017227865372269863, davies_bouldin_score:3.3256943440439906, calinski_harabaz_score=6.174733328351011
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.023312267183474834, davies_bouldin_score:3.432371288443389, calinski_harabaz_score=5.719141922789561
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.020179146831130396, davies_bouldin_score:3.526562571789123, calinski_harabaz_score=5.882744325656842
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.03244874112497971, davies_bouldin_score:3.3688835032130653, calinski_harabaz_score=6.562887592666511
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.015497931278028726, davies_bouldin_score:3.549391260828266, calinski_harabaz_score=6.367085570706324
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03474112694652662, davies_bouldin_score:3.61074064124347, calinski_harabaz_score=6.099193326933189
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.0464285674768672, davies_bouldin_score:3.559892389793611, calinski_harabaz_score=5.911684099673507
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.009295192172349575, davies_bouldin_score:3.4473732192605784, calinski_harabaz_score=6.599894631105289
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.020944292121012804, davies_bouldin_score:3.5421208870366723, calinski_harabaz_score=6.100486580836002
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.024968028754252306, davies_bouldin_score:3.6545255477392096, calinski_harabaz_score=6.045994966710842
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.02282782327669389, davies_bouldin_score:3.6247244239210628, calinski_harabaz_score=5.759988990236404
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.030237308860340747, davies_bouldin_score:3.420802131162361, calinski_harabaz_score=6.697837386388789
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03854718985476015, davies_bouldin_score:3.614977274734109, calinski_harabaz_score=6.083555340591812
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.02160663686458709, davies_bouldin_score:3.594967991295636, calinski_harabaz_score=6.10217297136301
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.039071558908536065, davies_bouldin_score:3.529422550401667, calinski_harabaz_score=5.901195483516304
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.023426140155773913, davies_bouldin_score:3.554696815042502, calinski_harabaz_score=6.483714800379029
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03280931899395418, davies_bouldin_score:3.5197010965305178, calinski_harabaz_score=6.179358513658262
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.042445518471015686, davies_bouldin_score:3.6421346111311115, calinski_harabaz_score=5.878063628897363
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.022575772408834693, davies_bouldin_score:3.554968990190012, calinski_harabaz_score=5.781582106966049
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.021857730364581527, davies_bouldin_score:3.418831786140043, calinski_harabaz_score=6.685649225409079
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.037847843324230857, davies_bouldin_score:3.5395241463119618, calinski_harabaz_score=6.207169565559924
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.038799460292973265, davies_bouldin_score:3.6681090867145656, calinski_harabaz_score=6.022974198830541
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.035857884348587644, davies_bouldin_score:3.7712935400415994, calinski_harabaz_score=6.253794150011235
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.018027936394518714, davies_bouldin_score:3.42618910973644, calinski_harabaz_score=6.42980730779449
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.021656862380751554, davies_bouldin_score:3.4688933759416507, calinski_harabaz_score=6.1031045852768075
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03112876106421694, davies_bouldin_score:3.6114969748777543, calinski_harabaz_score=5.965574442250028
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.03200904914726536, davies_bouldin_score:3.598112632136716, calinski_harabaz_score=5.972766247840879
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.029908919088807117, davies_bouldin_score:3.4368450631675604, calinski_harabaz_score=6.567767842093729
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.039512729366593606, davies_bouldin_score:3.4779105748004437, calinski_harabaz_score=6.200701686532294
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.021763771131527835, davies_bouldin_score:3.5841016380870063, calinski_harabaz_score=6.000429032152253
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.019946857486030645, davies_bouldin_score:3.5352744018624116, calinski_harabaz_score=5.953470426576554
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.016035856336813623, davies_bouldin_score:3.514635039507265, calinski_harabaz_score=6.691252232111759
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.021638583564040796, davies_bouldin_score:3.5932039147406725, calinski_harabaz_score=6.1981142789756625
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.022592744740890566, davies_bouldin_score:3.4399683328024695, calinski_harabaz_score=5.885369497266418
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.04281122035999732, davies_bouldin_score:3.694941705289949, calinski_harabaz_score=5.898663739709223
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.02549934399890514, davies_bouldin_score:3.416611737152283, calinski_harabaz_score=6.682304012864539
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03249285864774455, davies_bouldin_score:3.5422228425129103, calinski_harabaz_score=6.083168535796756
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.021288186737811247, davies_bouldin_score:3.592158862303142, calinski_harabaz_score=6.064673813516263
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.03320013034558365, davies_bouldin_score:3.4885830229786214, calinski_harabaz_score=5.827338290716642
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.03131440238805713, davies_bouldin_score:3.48611948739036, calinski_harabaz_score=6.465281645507885
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.025037255847464412, davies_bouldin_score:3.5661960146567173, calinski_harabaz_score=6.196429733756319
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03918836339095569, davies_bouldin_score:3.798823874155494, calinski_harabaz_score=5.838978739084035
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.02369222919735918, davies_bouldin_score:3.5426597892790896, calinski_harabaz_score=5.98047962020249
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.024800862231122264, davies_bouldin_score:3.4344503330299054, calinski_harabaz_score=6.717108901240464
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03659251163473426, davies_bouldin_score:3.485533479823324, calinski_harabaz_score=6.249779613806213
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03278396480829682, davies_bouldin_score:3.6383768087377373, calinski_harabaz_score=6.055864277741389
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.03397869474949418, davies_bouldin_score:3.4934090309817405, calinski_harabaz_score=6.051377013110638
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.016564785815827328, davies_bouldin_score:3.45366429091692, calinski_harabaz_score=6.459704253244336
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.023550755472814815, davies_bouldin_score:3.486652667934931, calinski_harabaz_score=6.133224379307068
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.029347765555205855, davies_bouldin_score:3.6209822172575277, calinski_harabaz_score=5.851320642129796
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.027034806969622238, davies_bouldin_score:3.5798692030037897, calinski_harabaz_score=5.855480638655813
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.027067593870207952, davies_bouldin_score:3.42595008262213, calinski_harabaz_score=6.534183218884495
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.02154003136501013, davies_bouldin_score:3.5366186244337885, calinski_harabaz_score=6.148949290868843
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.022436373256471975, davies_bouldin_score:3.6609367566024433, calinski_harabaz_score=5.99629302606437
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.01814427139144739, davies_bouldin_score:3.419504050028537, calinski_harabaz_score=6.073726538645061
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.02848709577426515, davies_bouldin_score:3.4507789857232436, calinski_harabaz_score=6.488025866242161
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03590743688275804, davies_bouldin_score:3.5913606788939547, calinski_harabaz_score=6.2760273245813964
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.028243236718654047, davies_bouldin_score:3.568494404621618, calinski_harabaz_score=5.849368872343241
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.028277497985140065, davies_bouldin_score:3.591295752340961, calinski_harabaz_score=5.8053336844414005
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.03256107308849067, davies_bouldin_score:3.4341902030194267, calinski_harabaz_score=6.674180039310552
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.02323211028294259, davies_bouldin_score:3.5371294003680402, calinski_harabaz_score=6.196499786762523
+
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.03748240346108068, davies_bouldin_score:3.69247398842528, calinski_harabaz_score=5.8897286995914655
+
+algorithm=kmeans normalize=False use_pca=False pca_variance=0.99
+silhouette_score:-0.029754122084176857, davies_bouldin_score:3.473546733780137, calinski_harabaz_score=6.001235734931478
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.017501713172646597, davies_bouldin_score:3.5034870899145028, calinski_harabaz_score=6.644546202199362
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.95
+PCA components for maintaining 0.95 variance: 115
+silhouette_score:-0.03491727608526085, davies_bouldin_score:3.4032793417795477, calinski_harabaz_score=6.0984137055619785
+
+algorithm=kmeans normalize=True use_pca=True pca_variance=0.99
+PCA components for maintaining 0.99 variance: 125
+silhouette_score:-0.016418595312494844, davies_bouldin_score:3.47113283987041, calinski_harabaz_score=5.900653538293025
+
+algorithm=kmeans normalize=True use_pca=False pca_variance=0.99
+silhouette_score:-0.024310478650612047, davies_bouldin_score:3.6430975375885413, calinski_harabaz_score=5.823166192914145
+
+[[-0.028216408716136787+/-0.0032890019571377924
+  -0.028593779820014275+/-0.008878138563178869
+  -0.030503038541174605+/-0.007331491570840463
+  -0.03195492595570466+/-0.008202555398566218]
+ [-0.019454890358620937+/-0.00661578727845509
+  -0.025535764207680757+/-0.006228756375876712
+  -0.028229862986643907+/-0.007421078081280828
+  -0.028045545776938317+/-0.006799148292017866]]
+
+[[3.428574978487821+/-0.034662580795688805
+  3.5221964731353888+/-0.0440189185094061
+  3.6170892208031935+/-0.06946491666928276
+  3.537860480133326+/-0.09415453711304919]
+ [3.468240169343191+/-0.04257060002417067
+  3.5024249389613997+/-0.08070888354412743
+  3.5708636795155955+/-0.11176281687374459
+  3.602402282535008+/-0.05216679894408617]]
+
+[[6.631053034868605+/-0.06380764979554839
+  6.199782836490269+/-0.08680118508711848
+  6.037975855845242+/-0.06120510543995715
+  5.995589061742949+/-0.11057162113878095]
+ [6.54606955768457+/-0.09668009006011864
+  6.161950008404744+/-0.05299514717337381
+  5.87834883745377+/-0.08098621215618226
+  5.881166335647558+/-0.09051896928826775]]
+
