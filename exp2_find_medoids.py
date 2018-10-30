@@ -11,36 +11,32 @@ n_medoids = int(sys.argv[2])
 n_random = int(sys.argv[3])
 datasetfile = sys.argv[4]
 
-
-test_set = pd.read_csv(datasetfile)
+train_set = pd.read_csv('train_set.csv')
 
 tweets = pd.read_csv('./dataset/health.txt', sep='|')
 
-test_tweets =  np.array(test_set, np.int32)[:,0]
+test_tweets =  np.array(train_set, np.int32)[:,0]
 
-test_set = np.array(test_set)[:,1:]
+train_set = np.array(train_set)[:,1:]
 
 scaler = StandardScaler()
-test_set = scaler.fit_transform(test_set, y=None)
+train_set = scaler.fit_transform(train_set, y=None)
 pca = PCA(n_components=0.90, svd_solver='full')
-test_set=pca.fit_transform(test_set)
-print(test_set.shape)
+train_set=pca.fit_transform(train_set)
+print(train_set.shape)
 
-clustering = KMeans(n_clusters=clusters, n_init=10, max_iter=10000, n_jobs=-1).fit(test_set)
+clustering = KMeans(n_clusters=clusters, n_init=10, max_iter=10000, n_jobs=-1).fit(train_set)
 # number_of_clusters = max(labels)+1
 
-# clustering = DBSCAN(eps=0.5, min_samples=5).fit(test_set)
+# clustering = DBSCAN(eps=0.5, min_samples=5).fit(train_set)
 # labels = clustering.labels_
 
-
-# clustering = SpectralClustering(n_clusters=clusters).fit(test_set)
+# clustering = SpectralClustering(n_clusters=clusters).fit(train_set)
 labels = clustering.labels_
 number_of_clusters = max(labels)+1
 
-
 idx_clusters = np.array([np.where(labels==i) for i in range(number_of_clusters)])
-clusters = np.array([test_set[np.where(labels==i)] for i in range(number_of_clusters)])
-
+clusters = np.array([train_set[np.where(labels==i)] for i in range(number_of_clusters)])
 
 for c in range(number_of_clusters):
 
