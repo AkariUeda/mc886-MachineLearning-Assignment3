@@ -24,8 +24,8 @@ valid_set = dataset.iloc[int(len(dataset)*0.8):int(len(dataset)*0.9), :]
 test_set = dataset.iloc[int(len(dataset)*0.9):, :]
 
 train_set.to_csv('train_set.csv')
-valid_set.to_csv('train_set.csv')
+valid_set.to_csv('valid_set.csv')
 test_set.to_csv('test_set.csv')
 
-print("New train and test sets saved successfully!")
+print("New sets saved successfully!")
 
