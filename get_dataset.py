@@ -13,11 +13,12 @@ import sklearn
 import pandas as pd
 import numpy as np
 
+
 data_file = sys.argv[1]
 original_tweets = sys.argv[2]
 
 dataset = pd.read_csv(data_file, header=None, sep=',')
-dataset = dataset.sample(frac=1)
+dataset = dataset.sample(frac=1, random_state=0)
 
 train_set = dataset.iloc[:int(len(dataset)*0.8), :]
 valid_set = dataset.iloc[int(len(dataset)*0.8):int(len(dataset)*0.9), :]
@@ -27,5 +28,5 @@ train_set.to_csv('train_set.csv')
 valid_set.to_csv('valid_set.csv')
 test_set.to_csv('test_set.csv')
 
-print("New sets saved successfully!")
+print("Train, validation and test sets saved successfully!")
 
