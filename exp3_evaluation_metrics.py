@@ -18,14 +18,38 @@ from sklearn import cluster
 from scipy.spatial import distance
 import sklearn.datasets
 from sklearn.preprocessing import StandardScaler
-
+from sklearn.decomposition import PCA
 
 print("Reading dataset...")
 train_set = pd.read_csv('train_set.csv')
 train_set = np.array(train_set)[:, 1:]
-scaler = StandardScaler()
-train_set = scaler.fit_transform(train_set, y=None)
+valid_set = pd.read_csv('valid_set.csv')
+valid_set = np.array(valid_set)[:, 1:]
 print("Dataset loaded successfully!")
+
+def evaluate(train_set, valid_set, preprocessing):
+    
+    if preprocessing == 'normalized':
+        scaler = StandardScaler()
+        train_set = scaler.fit_transform(train_set, y=None)
+        valid_set = scaler.transform(valid_set, y=None)
+
+    elif preprocessing == 'pca':
+        pca = PCA(n_components=0.99, svd_solver='full')
+        train_set = pca.fit_transform(train_set, y=None)
+        valid_set = pca.transform(valid_set)
+    
+    elif preprocessing == 'normalized_pca99':
+        scaler = StandardScaler()
+        train_set = scaler.fit_transform(train_set, y=None)
+        valid_set = scaler.transform(valid_set, y=None)
+        pca = PCA(n_components=0.99, svd_solver='full')
+        train_set = pca.fit_transform(train_set, y=None)
+        valid_set = pca.transform(valid_set)
+    
+
+    elif preprocessing == 'none':
+        continue
 
 
 sse = []

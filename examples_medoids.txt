@@ -1,0 +1,58 @@
+Medoids cluster 38 (size=249): Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+   5 nearest points:
+          RT @eatsmartbd: A6 Green #tea contains #antioxidants that may help protect against prostate #cancer. #healthtalk
+          Say 'ahh' for relief! A new study finds that mindfulness meditation techniques may help relieve inflammation:
+          Say 'ahh' for relief! A new study finds that mindfulness meditation techniques may help relieve inflammation:
+          Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+          Omega-3s may not help the aging brain, a new study suggests #health #dementia
+   5 random points:
+          Energy drinks plus alcohol may encourage drunk driving
+          Epilepsy drug may reverse memory loss of potential #Alzheimer’s patients
+          Tobacco plant may hold key to #Ebola experimental drugs
+          Sepsis, shock, and organ failure may be linked to daily #digestion.
+          Tobacco plant may hold key to #Ebola experimental drugs
+
+Medoids cluster 56 (size=26): What can you do to get allergy relief? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+   5 nearest points:
+          Allergies getting you down? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+          What can you do to get allergy relief? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+          What can you do to get allergy relief? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+          What can you do to get allergy relief? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+          What can you do to get allergy relief? Join our #CNNAllergies chat on 4/23 at 1:30 p.m. EST with @AllergyReliefNY
+   5 random points:
+          @PublicHealth We'd love to!
+          Join our #CNNAllergies chat TOMORROW at 1:30pm EST with @AllergyReliefNY
+          TODAY: Allergies getting you down? Join our #CNNAllergies Twitter chat at 1:30pm EST with @AllergyReliefNY
+          Learn about #allergies tomorrow! Send us your questions before our #CNNAllergies chat on 4/23 @ 1:30 pm ET
+          RT @DavidKirsch: Reminder, join my chat w/ @cnnhealth today at 1pm EST. Join the discussion w/ #FitFamilies.
+
+Medoids cluster 30 (size=247): .@WHO says #Ebola outbreak in West Africa is one of the "most challenging" they've ever faced
+   5 nearest points:
+          .@WHO says #Ebola outbreak in West Africa is one of the "most challenging" they've ever faced
+          Donors and WHO responded too slowly to West Africa #Ebola outbreak, report says
+          WHO #Ebola response chief says virus still spreading due to lack of change in behaviors
+          What's it like inside the Ebola hotzone? An American doctor who had Ebola is back in Africa
+          West Africa sees spike in #Ebola cases as decline stalls, WHO says
+   5 random points:
+          Junior doctors in Sierra Leone strike over lack of #Ebola care
+          Sierra Leone declares Ebola lockdown
+          American emergency rooms prepare as Ebola fear spreads @jechristensen
+          Ebola survivor may have infected new Liberia case 
+          #Ebola cases increase slightly, says WHO
+
+
+
+Medoids cluster 0 (size=244): Here's the health reasons why it is good that Angelina Jolie stayed home from her movie premiere
+   5 nearest points:
+          Here's the health reasons why it is good that Angelina Jolie stayed home from her movie premiere
+          Does #IBD stop you from making your fav recipe? What is it? Reply for a chance to get a recipe makeover by @joybauer. Use #joyrecipemakeover
+          Does #IBD stop you from making your fav recipe? What is it? Reply for a chance to get a recipe makeover by @joybauer. Use #joyrecipemakeover
+          Feeling down? It’s easy to blame our winter blues on seasonal affective disorder. But is that the whole story?
+          RT @FitNP: @cnnhealth @BeWellBoston #plankaday is doing a "plank" once daily. The hope is that your time gradually increases &amp; you r ...
+   5 random points:
+          What is an 'obesogenic' environment?
+          Whistleblowers get rough deal - MPs
+          #schizophrenia is really 8 separate disorders, a new @WUSTL study says:
+          We're not knocking marriage, but ... 6 reasons single-hood is good for you!
+          Does #IBD stop you from making your fav recipe? What is it? Reply for a chance to get a recipe makeover by @joybauer. Use #joyrecipemakeover
+

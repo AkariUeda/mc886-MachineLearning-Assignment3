@@ -1,7 +1,7 @@
 '''
 How to use it:
 
-python3 get_dataset.py [path to dataset file (e.g., dataset/bags.csv)] [path to tweets file (e.g., dataset/health.txt)]
+python3 get_dataset.py [path to dataset file (e.g., dataset/bags.csv)] 
 
 Warning: This script rewrites your train, valid and test set files. We recommend
         you to run this only once.
@@ -15,9 +15,9 @@ import numpy as np
 
 
 data_file = sys.argv[1]
-original_tweets = sys.argv[2]
 
 dataset = pd.read_csv(data_file, header=None, sep=',')
+
 dataset = dataset.sample(frac=1, random_state=0)
 
 train_set = dataset.iloc[:int(len(dataset)*0.8), :]
