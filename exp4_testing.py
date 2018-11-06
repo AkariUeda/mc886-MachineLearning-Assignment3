@@ -59,10 +59,9 @@ for c in range(number_of_clusters):
 	print("   {} nearest points:".format(len(n_neighbors)))
 	for n in range(len(n_neighbors)):
 		print("          {}".format(tweets_text.iloc[train_tweets[idx_clusters[c][0][n_neighbors[n]]]]['headline_text']))
-	
+
 	print("   {} random points:".format(n_random))
 	random_idx = np.random.randint(len(idx_clusters[c][0]),size=n_random)
 
 	for n in range(n_random):
 		print("          {}".format(tweets_text.iloc[train_tweets[idx_clusters[c][0][random_idx[n]]]]['headline_text']))
-

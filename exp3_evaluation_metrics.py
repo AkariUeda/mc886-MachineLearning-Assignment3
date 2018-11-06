@@ -54,7 +54,7 @@ def evaluate(train_set, valid_set, algorithm='kmeans', normalize=False, use_pca=
     return (silhouette_avg, davies_bouldin_avg, calinski_avg)
 
 if __name__ == '__main__':
-            
+
     print("Reading dataset...")
     train_set = pd.read_csv('train_set.csv')
     train_set = np.array(train_set)[:, 1:]
@@ -75,15 +75,6 @@ if __name__ == '__main__':
                 (results_silhouette[i][int(should_normalize)][j], results_davies[i][int(should_normalize)][j], results_calinski[i][int(should_normalize)][j]) = evaluate(np.copy(train_set), np.copy(valid_set), algorithm='kmeans', normalize=should_normalize, use_pca=True, pca_variance=variance_values[j])
             (results_silhouette[i][int(should_normalize)][len(variance_values)], results_davies[i][int(should_normalize)][len(variance_values)], results_calinski[i][int(should_normalize)][len(variance_values)]) = evaluate(np.copy(train_set), np.copy(valid_set), algorithm='kmeans', normalize=should_normalize, use_pca=False, pca_variance=0.99)
 
-    """
-    print(np.average(results_silhouette, axis=0))
-    print(np.average(results_davies, axis=0))
-    print(np.average(results_calinski, axis=0))
-
-    print(np.std(results_silhouette, axis=0))
-    print(np.std(results_davies, axis=0))
-    print(np.std(results_calinski, axis=0))
-    """
 
     from uncertainties import unumpy
 
