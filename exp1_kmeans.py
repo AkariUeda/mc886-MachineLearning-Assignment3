@@ -90,10 +90,10 @@ fig.text(0.06, 0.5, '', ha='center',
          va='center', rotation='vertical')
 
 ax1.plot(cluster_range, sse, 'r-')
-ax1.set_xlabel("Cluster Size")
+ax1.set_xlabel("Number of Clusters")
 ax1.set_ylabel("SSE")
 ax2.plot(cluster_range, bic_values, 'b-')
-ax2.set_xlabel("Cluster Size")
+ax2.set_xlabel("Number of Clusters")
 ax2.set_ylabel("BIC")
 plt.legend()
 #fig.savefig('exp1_elbow.png')
