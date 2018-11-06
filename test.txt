@@ -1,0 +1,777 @@
+algorithm=kmeans normalize=False use_pca=True pca_variance=0.9
+PCA components for maintaining 0.9 variance: 103
+silhouette_score:-0.030726380892123012, davies_bouldin_score:3.4104243681988193, calinski_harabaz_score=6.499960186843863
+
+(-0.030726380892123012, 3.4104243681988193, 6.499960186843863)
+
+Medoids cluster 0 (size=34): Had a lot of Qs when we got @TLC's email about a 132-lb scrotum. So we asked his doc: What's up w/ this?
+   5 nearest points:
+          Had a lot of Qs when we got @TLC's email about a 132-lb scrotum. So we asked his doc: What's up w/ this?
+          RT @RMichlerMD: A1: Every American is at risk for #heartDisease. It kills more ppl than next 5 leading causes of death added together #healthtalk
+          Donated fecal transplants can be more effective than antibiotics to treat serious infections in the stomach:
+          Today's #getfit tip @littleamberfate: DEAD LAST is greater than DID NOT FINISH, which trumps DID NOT START
+          #Sebelius &amp; @HHSGov give teeth to law requiring doctors/insurers to treat mental illness same as physical
+   5 random points:
+          Minister orders mid Wales NHS report
+          Breaking development: Deadly superbug-related scopes sold without FDA approval @elizcohencnn
+          Groups: Autism not to blame for violence
+          #Sebelius &amp; @HHSGov give teeth to law requiring doctors/insurers to treat mental illness same as physical
+          Helicopter crash survivor helps others heal with art
+
+Medoids cluster 1 (size=31): How much sleep you really need tonight, and what can happen if you don't get it:
+   5 nearest points:
+          If you do it enough, it can transform your life. Why @MishkaShubaly will #RunForBoston
+          Can you find the 'best' hospital for you? It's not clear if you consult "best of" lists @Health_Affairs
+          Which exercise burns more calories? Take our quiz and find out how much you really know:
+          How much sleep you really need tonight, and what can happen if you don't get it:
+          We know you never nag your spouse, but if you did, here's why science says you can't stop:http://trib.al/Xv1cGD
+   5 random points:
+          9 exercises to keep you looking young:
+          Is oral sex safe? So glad you asked:
+          Bacon-lovers, you may want to read this:
+          9 exercises to keep you looking young:
+          Can you really freshen up women's 'aging' eggs? 
+
+Medoids cluster 2 (size=12): Marital problems remain steady over time, but satisfaction declines, study says @Newser
+   5 nearest points:
+          Marital problems remain steady over time, but satisfaction declines, study says @Newser
+          Nurse arrested again over poisoning
+          VIDEO: Action urged over self-harm sites
+          'Action' need over weekend doctors
+          Nurses' anger over 'unfair' pay deal
+   5 random points:
+          Nurses' anger over 'unfair' pay deal
+          Concerns over fat burning drug DNP
+          Nurse arrested again over poisoning
+          Drugs fund 'papers over cracks'
+          Nurses' anger over 'unfair' pay deal
+
+Medoids cluster 3 (size=4): Hello everyone and welcome to today’s #HealthTalk on living well with #diabetes!
+   4 nearest points:
+          Hello everyone and welcome to today’s #HealthTalk on living well with #diabetes!
+          #HealthTalk TODAY @ 1 pm ET on living well w/ #diabetes
+          Welcome! RT @sameez1975: @EverydayHealth. Hello. Have changed my diet since finding out I have high cholesterol. 308. #HealthTalk
+          Introduce yourselves! Where’s everyone from? #HealthTalk
+   5 random points:
+          #HealthTalk TODAY @ 1 pm ET on living well w/ #diabetes
+          Welcome! RT @sameez1975: @EverydayHealth. Hello. Have changed my diet since finding out I have high cholesterol. 308. #HealthTalk
+          Hello everyone and welcome to today’s #HealthTalk on living well with #diabetes!
+          #HealthTalk TODAY @ 1 pm ET on living well w/ #diabetes
+          #HealthTalk TODAY @ 1 pm ET on living well w/ #diabetes
+
+Medoids cluster 4 (size=1): Rejected cancer drug 'extends life'
+   1 nearest points:
+          Rejected cancer drug 'extends life'
+   5 random points:
+          Rejected cancer drug 'extends life'
+          Rejected cancer drug 'extends life'
+          Rejected cancer drug 'extends life'
+          Rejected cancer drug 'extends life'
+          Rejected cancer drug 'extends life'
+
+Medoids cluster 5 (size=7): Health manual changes may turn binge drinkers into alcoholics
+   5 nearest points:
+          Inquiry into emergency health care
+          10-stone girl, five, taken into care
+          Health manual changes may turn binge drinkers into alcoholics
+          Night work 'throws body into chaos'
+          Hot flashes, night sweats may linger into a woman's sixties 
+   5 random points:
+          Health manual changes may turn binge drinkers into alcoholics
+          Health manual changes may turn binge drinkers into alcoholics
+          Night work 'throws body into chaos'
+          Inquiry into emergency health care
+          Health manual changes may turn binge drinkers into alcoholics
+
+Medoids cluster 6 (size=48): .@GibobDale Ebola spreads thru bodily fluids. If patient sweats, vomits on blanket, whoever touches that could become infected #EbolaQandA
+   5 nearest points:
+          #Measles may become ‘endemic’ without vaccination, proper clinical diagnosis, CDC official says
+          .@GibobDale Ebola spreads thru bodily fluids. If patient sweats, vomits on blanket, whoever touches that could become infected #EbolaQandA
+          Hospital tells 18 patients they may have been exposed to an incurable disease
+          Pls ignore that last tweet -- wrong headline alert! Government reverses plan to cut Medicare Advantage rate
+          Battling to eliminate elephantiasis, a parasite that continues to infect 120 million worldwide
+   5 random points:
+          Government 'loses £700m NHS IT case'
+          US reports woman-to-woman HIV case
+          Man donated three kidneys by family
+          Burnt boy's mother praises medics
+          Hospital tells 18 patients they may have been exposed to an incurable disease
+
+Medoids cluster 7 (size=13): Name-brand drug prescriptions costing you big, says a new report
+   5 nearest points:
+          4 new #polio cases detected in #Pakistan, official says
+          BREAKING: New #meningitis numbers -- @CDCgov says 170 infected, 14 dead
+          Gates Foundation awards $50 million to Stanford #vaccine discovery
+          Name-brand drug prescriptions costing you big, says a new report
+          Court Awards $7.2 Million in Microwave Popcorn Damages
+   5 random points:
+          BREAKING: New #meningitis numbers -- @CDCgov says 170 infected, 14 dead
+          4 new #polio cases detected in #Pakistan, official says
+          VIDEO: Criticism of Men B vaccine delay
+          New Jersey baby delivered via FaceTime 
+          New approach against HIV 'promising'
+
+Medoids cluster 8 (size=50): Children exposed to this drug while in the womb face a higher risk of developing behavior problems:
+   5 nearest points:
+          Sobriety tests in all new cars might prevent most drunk driving deaths 
+          Wide use of prescription painkillers found in US women of childbearing age, CDC reports
+          Children exposed to this drug while in the womb face a higher risk of developing behavior problems:
+          RT @MeaslesRubella: #US measles cases in 2013 may be most in 17 years -
+          #HIV infections down in children @UNAIDS says
+   5 random points:
+          Coffins arrive in #Netherlands. @DrSanjayGupta discusses next steps in identifying victims
+          #Measles outbreak casts spotlight on anti-vaccine movement
+          Under-fives death rate 'high in UK'
+          Coffins arrive in #Netherlands. @DrSanjayGupta discusses next steps in identifying victims
+          Ethiopia tests thousands for HIV in record attempt
+
+Medoids cluster 9 (size=71): U.S. is No. 70 in the world for #health &amp; wellness, according to the new Social Progress Index. Why?
+   5 nearest points:
+          Can you guess the most common nutrient deficiency in the U.S.? What it is &amp; how to fix it:
+          U.S. is No. 70 in the world for #health &amp; wellness, according to the new Social Progress Index. Why?
+          The treatment time for prostate cancer may be cut in half, thanks to a new study.
+          When it comes to nutrition, is black the new green? The most powerful superfoods you might be missing:
+          Having the right food in reach is just one tip for #weightloss
+   5 random points:
+          Malaria parasite 'hides in the bone'
+          Can robots care for the elderly?
+          Heart health secrets from the vine
+          New updates in the CDC #anthrax investigation. Would you use Ziplock bags to tranfer dangerous material?
+          @loseit the times/days vary! Check in with us -- we update
+
+Medoids cluster 10 (size=28): RT @eatsmartbd: Q3 A #snack should be like a mini meal to give you a boost w/out weighing u down. #healthtalk
+   5 nearest points:
+          RT @eatsmartbd: Q3 A #snack should be like a mini meal to give you a boost w/out weighing u down. #healthtalk
+          In a few mins @DeepakChopra and 50,000 others will try to break world #meditation record. Why you should join them:
+          If you can only workout one thing, THIS should be it @TriHardTabitha says
+          There may be a scientific reason for why you can't stop eating m&amp;m's:
+          Still drinking soda? Here's another reason why you should stop:
+   5 random points:
+          If you can only workout one thing, THIS should be it @TriHardTabitha says
+          RT @eatsmartbd: Q3 A #snack should be like a mini meal to give you a boost w/out weighing u down. #healthtalk
+          Obesity: How worried should we be?
+          Rapid 'doctor's assistant' expansion
+          How to get a body like Jennifer Aniston:
+
+Medoids cluster 11 (size=6): RT @KendallFitness: @EverydayHealth ABSOLUTELY!! Anything in moderation! Enjoy life and enjoy your food! #healthtalk
+   5 nearest points:
+          Opinion: Healthy food doesn't mean 'organic'
+          Families cut back on fresh food
+          Does zero-calorie food (like celery) exist?
+          RT @KendallFitness: @EverydayHealth ABSOLUTELY!! Anything in moderation! Enjoy life and enjoy your food! #healthtalk
+          'A third' can't afford healthy food
+   5 random points:
+          Families cut back on fresh food
+          Does zero-calorie food (like celery) exist?
+          Does zero-calorie food (like celery) exist?
+          Families cut back on fresh food
+          RT @KendallFitness: @EverydayHealth ABSOLUTELY!! Anything in moderation! Enjoy life and enjoy your food! #healthtalk
+
+Medoids cluster 12 (size=2): Baldness may cause sexual side effects
+   2 nearest points:
+          Baldness may cause sexual side effects
+          Baldness may cause sexual side effects
+   5 random points:
+          Baldness may cause sexual side effects
+          Baldness may cause sexual side effects
+          Baldness may cause sexual side effects
+          Baldness may cause sexual side effects
+          Baldness may cause sexual side effects
+
+Medoids cluster 13 (size=41): It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+   5 nearest points:
+          It's more than a sweet tooth! More research confirms that you CAN be addicted to sugar. Here's how to quit:
+          Craving chocolate? Take a walk! Data finds that people who take walks snack less under stress. More tips:
+          RT @PlantDietitian: Q9: It is a gift to raise your kids on a whole food #vegan diet. Less toxic, more nutritious than std American diet. #HealthTalk
+          One McDonald's oatmeal has more than 8 teaspoons of added sugar! More seemingly healthy fast food that isn't
+          Talk to your kids about #alcohol sooner rather than later: @CDCgov says 1 in 5 high school girls binge drink
+   5 random points:
+          You're eating more calories than you think
+          Obese girls more likely to develop this #disease
+          Study says more than half of all infants at risk for suffocation or SIDS when sleeping 
+          More than 1,100 have #cancer after #September11
+          When people who have never smoked get lung cancer:
+
+Medoids cluster 14 (size=1): Ebola 'threatens' W Africa harvests
+   1 nearest points:
+          Ebola 'threatens' W Africa harvests
+   5 random points:
+          Ebola 'threatens' W Africa harvests
+          Ebola 'threatens' W Africa harvests
+          Ebola 'threatens' W Africa harvests
+          Ebola 'threatens' W Africa harvests
+          Ebola 'threatens' W Africa harvests
+
+Medoids cluster 15 (size=22): Kids with type 1 #diabetes at risk for mental health problems
+   5 nearest points:
+          Kids with type 1 #diabetes at risk for mental health problems
+          Could smart phones help provide mental health care?
+          Mental health care 'in dark ages'
+          Psychiatrists team with pediatricians to treat child mental health disorders
+          #TimetoTalk trending on social media, spreading importance of mental #health awareness
+   5 random points:
+          Miliband pledges mental health push
+          RT @CNNMoney: 48 million Americans don't have health insurance
+          VIDEO: Football aims to tackle mental health
+          RT @CNNMoney: 48 million Americans don't have health insurance
+          Could smart phones help provide mental health care?
+
+Medoids cluster 16 (size=52): Is there a healthy way to make fried chicken? @LaurasKitchen @EatcleanerFood cut the calories while keeping the crisp:
+   5 nearest points:
+          Is there a healthy way to make fried chicken? @LaurasKitchen @EatcleanerFood cut the calories while keeping the crisp:
+          What's the biggest mistake ppl make at the gym? Join us Friday on FB at noon ET to ask celeb trainer @DavidKirsch
+          RT @Savingdaniel13: @FedFamSC #CNNParents I thought of my son first before me and that is what caused the "Wall" to replace my emotions. Th…
+          72 percent of singles say animals influence whether or not they'd date someone. Which pets are the biggest turnoffs?
+          Today's #getfit tip @USNews: Learn to play the drums! You burn up to 400 cals/hr and relieve stress
+   5 random points:
+          Thank you to @drsanjaygupta @kellywallacetv @NAMICommunicate @Savingdaniel13 @DrashmanCNN!
+          Today's #getfit tip @USNews: Learn to play the drums! You burn up to 400 cals/hr and relieve stress
+          Natural boob lift workout: @JillianMichaels shows us the 3 best chest exercises:
+          A #newstudy uncovers the repercussions of a younger drinking age:
+          The single best predictor of a heart attack:
+
+Medoids cluster 17 (size=28): RT @SmokefreeWomen: Know a gal who's #quitting this year? Learn how you can support her as she becomes &amp; stays #smokefree
+   5 nearest points:
+          Should you avoid caffeine while pregnant? Does sex jumpstart labor?  @ProfEmilyOster busts common myths
+          One of 3 Americans use alternative medicine? Are you among them? And other findings from the @NCHStats @jechristensen
+          RT @SmokefreeWomen: Know a gal who's #quitting this year? Learn how you can support her as she becomes &amp; stays #smokefree
+          RT @lizlandau: So much #abortion debate, but we rarely hear from women who have had abortions. Share your experience for #cnn
+          Enjoying the warm weather? Climate change may bring more heat deaths. Protect yourself!
+   5 random points:
+          Tough EU smoking rules approved
+          From 58 pounds to thriving
+          Doctors told 'don't blame' obese
+          Magnetic fields 'help smokers quit'
+          Data from 47 million fitness app users reveals 2014’s hottest trends 
+
+Medoids cluster 18 (size=16): VIDEO: Fears for Scope care home residents
+   5 nearest points:
+          Social care access 'limited for many'
+          VIDEO: Councils 'pay too little for home care'
+          VIDEO: Fears for Scope care home residents
+          VIDEO: Abuse and neglect at care home
+          VIDEO: 'Full investigation' when care fails
+   5 random points:
+          #Hospice Care Often Comes Too Late
+          VIDEO: Care: 'You have to be cold-hearted'
+          VIDEO: Fears for Scope care home residents
+          Scotland to revamp end of life care
+          Adult social care 'under pressure'
+
+Medoids cluster 19 (size=76): RT @CertifiedFitGk: @EverydayHealth A5: Working out is how I deal with stress. It helps me focus and clear my mind. lite lunch cardio right now #HealthTalk
+   5 nearest points:
+          RT @CertifiedFitGk: @EverydayHealth A5: Working out is how I deal with stress. It helps me focus and clear my mind. lite lunch cardio right now #HealthTalk
+          If your kid is obese at age 5, they may be forever. UNLESS you step in! Join us at 1 pm Fri for a chat #FitFamilies
+          RT @AyeshaPandit: @EverydayHealth quite good. Work out dilligently 6'7 times per week. Try to eat clean. So far do good. #Healthtalk
+          RT @AdvocateSH: @EinsteinMed @EverydayHealth is there a chance for healthy, young people to have #diabetes even if it doesn't run in the family? #healthtalk
+          RT @RachelBegunRD: A3: making #hearthealthy eating easier is impt. #RDtip: incorporate fruits/veggies into fave recipes. Don't have to eat plain! #healthtalk
+   5 random points:
+          RT @AyeshaPandit: @EverydayHealth quite good. Work out dilligently 6'7 times per week. Try to eat clean. So far do good. #Healthtalk
+          Q7 STAT What are the best foods to protect my heart? #healthtalk
+          Q8: Does anyone have questions for our expert @sarahstanley? Ask them now! #healthtalk
+          Today's #getfit tip @ClevelandClinic: Take 2 mins to reduce stress with these work chair #yoga stretches
+          RT @eatsmartbd: A: A fave shake: Greek #yogurt, small bk’d sweet potato, banana, ice. Delish + gr8 4 energy! #healthtalk @everydayhealth
+
+Medoids cluster 20 (size=1): Curry spice 'helps brain self-heal'
+   1 nearest points:
+          Curry spice 'helps brain self-heal'
+   5 random points:
+          Curry spice 'helps brain self-heal'
+          Curry spice 'helps brain self-heal'
+          Curry spice 'helps brain self-heal'
+          Curry spice 'helps brain self-heal'
+          Curry spice 'helps brain self-heal'
+
+Medoids cluster 21 (size=5): Fiber-rich foods to add to your diet ASAP:
+   5 nearest points:
+          Test your #Diabetes Diet IQ:
+          6 food additives to subtract from your diet ASAP:
+          Fiber-rich foods to add to your diet ASAP:
+          Fiber-rich foods to add to your diet ASAP:
+          Sensitive to alcohol? Be wary of diet soda as a mixer:
+   5 random points:
+          Fiber-rich foods to add to your diet ASAP:
+          Test your #Diabetes Diet IQ:
+          Fiber-rich foods to add to your diet ASAP:
+          Fiber-rich foods to add to your diet ASAP:
+          6 food additives to subtract from your diet ASAP:
+
+Medoids cluster 22 (size=32): VIDEO: The man who helped save 50 million lives
+   5 nearest points:
+          VIDEO: The man who helped save 50 million lives
+          VIDEO: 'Goggle camera' records Ebola crisis
+          VIDEO: One Briton a fortnight helped to die
+          VIDEO: 'Seven-day week' for top NHS doctors
+          VIDEO: Painful wait for a child's diagnosis
+   5 random points:
+          VIDEO: 'I don't get right to die ruling'
+          VIDEO: Ebola survivors’ blood 'saving lives'
+          VIDEO: Ebola chief: 'This disease is still a crisis'
+          VIDEO: Virtual avatars reduce self-criticism
+          VIDEO: Geldof: 'Ebola is inhuman'
+
+Medoids cluster 23 (size=64): What is good for your heart, may lift your mood, will help you live longer and tastes delicious? Find out here:
+   5 nearest points:
+          How far will you go? @upwave can help w/ these 5 tips on increasing your stamina
+          Are your #friends making you #fat? Here's how to stop the cycle, and keep your friends:
+          What is good for your heart, may lift your mood, will help you live longer and tastes delicious? Find out here:
+          RT @sarahstanley: Share your goals with others so you can be held accountable. #healthtalk
+          Feeling sleepy? Do 5 push-ups to wake your body up! More easy ways to boost your energy:
+   5 random points:
+          .@TriHardKaren had 2 hip replacements. Now she's training for a tri. What's your excuse?
+          RT @anniehauser: Take charge of your health this year! Your first step: Joining me + @SELFmagazine on Google+ today @ 4! #13for13
+          .@TriHardKaren had 2 hip replacements. Now she's training for a tri. What's your excuse?
+          What diseases can we get from pets?
+          10 ways to add years to your life:
+
+Medoids cluster 24 (size=121): So you don't look like a supermodel in yoga pants. Here's how to get over exercise shyness and work it at the gym:
+   5 nearest points:
+          Something on your mind? Know of a topic you'd like to see covered? Now you can e-mail us at OPED.Health@cnn.com. We'd love to hear from you!
+          So you don't look like a supermodel in yoga pants. Here's how to get over exercise shyness and work it at the gym:
+          RT @Savingdaniel13: @FedFamSC #CNNParents It was scary at first but it is something I knew that needed to be done. Stigma won't get me anym…
+          RT @PDDinnovation: Great ideas from #CNN10 – which will have the most impact? Fantastic articles from @jdwilson2, @lizlandau and others: ht…
+          Want to eat much healthier, but feel like it's just too expensive? Here, your budget friendly guide to healthy cooking:
+   5 random points:
+          BRRRR! Have you ever done a polar bear plunge? Share your story
+          RT @apelsinkaX: @cnnhealth
+          Are multivitamins a waste of money? These docs say YES
+          RT @SueScheff: @kellywallacetv #FitFamilies Let them be part of the planning -but do it together!
+          Something on your mind? Know of a topic you'd like to see covered? Now you can e-mail us at OPED.Health@cnn.com. We'd love to hear from you!
+
+Medoids cluster 25 (size=19): VIDEO: 'Bacon butty' for British Ebola nurse
+   5 nearest points:
+          4 more aid workers flown back to US for Ebola monitoring (pulled overnight) 
+          VIDEO: 'Bacon butty' for British Ebola nurse
+          VIDEO: Hunt for US Ebola victim contacts
+          Proper checks in place for Ebola - PM
+          Tekmira to supply #Ebola treatment for studies in West Africa
+   5 random points:
+          UK Ebola nurse has 'stabilised'
+          VIDEO: Hunt for US Ebola victim contacts
+          Inside Sierra Leone's Ebola clinics
+          4 more aid workers flown back to US for Ebola monitoring (pulled overnight) 
+          Tekmira to supply #Ebola treatment for studies in West Africa
+
+Medoids cluster 26 (size=5): VIDEO: Urgent calls to tackle childhood obesity
+   5 nearest points:
+          Developing world obesity quadruples
+          VIDEO: Urgent calls to tackle childhood obesity
+          'Obesity linked to 10 cancers'
+          Drinks tax obesity effect 'modest'
+          Coke tackling obesity
+   5 random points:
+          Coke tackling obesity
+          'Obesity linked to 10 cancers'
+          Drinks tax obesity effect 'modest'
+          Coke tackling obesity
+          Developing world obesity quadruples
+
+Medoids cluster 27 (size=2): Unsafe food 'growing global threat'
+   2 nearest points:
+          Unsafe food 'growing global threat'
+          Cancer: A global threat
+   5 random points:
+          Unsafe food 'growing global threat'
+          Cancer: A global threat
+          Unsafe food 'growing global threat'
+          Unsafe food 'growing global threat'
+          Unsafe food 'growing global threat'
+
+Medoids cluster 28 (size=17): You've told your teen about the dangers of #cigarettes. But have you talked to them about hookah?
+   5 nearest points:
+          You've told your teen about the dangers of #cigarettes. But have you talked to them about hookah?
+          What do your #shoes say about your personality? RT this if you've judged someone based on their footwear.
+          The #Queen has been released from the hospital. 5 things you need to know about gastroenteritis
+          What do your #shoes say about your personality? RT this if you've judged someone based on their footwear.
+          5 things you should know about #MERS
+   5 random points:
+          'Jokes about autism are ignorant'
+          What you should know about the DIY braces trend  
+          RT @MayoClinicHS: 7 things to know about #epilepsy.
+          #Supplement maker admits to lying about ingredients
+          #Supplement maker admits to lying about ingredients
+
+Medoids cluster 29 (size=2): Roman gums 'healthier than ours'
+   2 nearest points:
+          Roman gums 'healthier than ours'
+          'Sugar worse than salt' row erupts
+   5 random points:
+          'Sugar worse than salt' row erupts
+          'Sugar worse than salt' row erupts
+          'Sugar worse than salt' row erupts
+          'Sugar worse than salt' row erupts
+          Roman gums 'healthier than ours'
+
+Medoids cluster 30 (size=4): Charity call for patient care review
+   4 nearest points:
+          Call for merged 'super' care budget
+          Charity call for patient care review
+          Trust 'failed' on 111 call answering
+          Jones dismisses health inquiry call
+   5 random points:
+          Call for merged 'super' care budget
+          Jones dismisses health inquiry call
+          Charity call for patient care review
+          Trust 'failed' on 111 call answering
+          Call for merged 'super' care budget
+
+Medoids cluster 31 (size=21): .@a_dymes Ebola IS survivable w/ supportive therapy. They also received  experimental drugs. They are NOT contagious anymore #EbolaQandA
+   5 nearest points:
+          .@a_dymes Ebola IS survivable w/ supportive therapy. They also received  experimental drugs. They are NOT contagious anymore #EbolaQandA
+          Early HIV drugs 'may not stop virus'
+          Ebola vaccine trial suspended after side effects
+          AUDIO: British feet 'are getting bigger'
+          Murder trial jurors can be overwhelmed, traumatized
+   5 random points:
+          EU approves first stem cell therapy
+          Stem cell 'major discovery' claimed
+          .@a_dymes Ebola IS survivable w/ supportive therapy. They also received  experimental drugs. They are NOT contagious anymore #EbolaQandA
+          Evidence of xylitol's cavity-preventing benefits lacking 
+          Ebola vaccine trial suspended after side effects
+
+Medoids cluster 32 (size=14): RT @eatsmartbd: A3 #VDay is a good time to talk abt self-love! We oft find time to take care of others &amp; forget the care WE need #healthtalk @goredforwomen
+   5 nearest points:
+          .@ClairityProject spends a lot of time in the hospital. So she's made it home:
+          If Sat evening is your only free time, then Sat evening is your grocery day. Welcome to the fun world of #triathlon @aprils_awesome
+          RT @eatsmartbd: A3 #VDay is a good time to talk abt self-love! We oft find time to take care of others &amp; forget the care WE need #healthtalk @goredforwomen
+          We're saying it: Ab workouts are a waste of time! Here's why: 
+          Go, go, go is a tough lifestyle. This year, it's time to stop and breathe
+   5 random points:
+          It's time we break self-stimulation #myths:
+          .@ClairityProject spends a lot of time in the hospital. So she's made it home:
+          #Boston amputee victims urged to 'slay the monster' with recovery
+          Boyle is part of 'invisible generation'
+          If Sat evening is your only free time, then Sat evening is your grocery day. Welcome to the fun world of #triathlon @aprils_awesome
+
+Medoids cluster 33 (size=11): Mental health warning signs parents should not ignore
+   5 nearest points:
+          Mental health warning signs parents should not ignore
+          Mental health beds 'crisis' warning
+          Today's #health minute: Warning signs of a heart attack 
+          Nightmares may be 'health warning'
+          Anger over #mental #health budget cuts
+   5 random points:
+          Warning to measles school parents
+          Women's heart health fitness warning
+          Rocketing vaccine cost warning
+          VIDEO: Warning over child dental health
+          Mental health beds 'crisis' warning
+
+Medoids cluster 34 (size=5): RT @FDADeviceInfo: Do u rely on a medical device? Read these tips about device safety during #Sandy
+   5 nearest points:
+          Happy #WAAD! Read this inspiring story, then share yours
+          Medical research defender knighted
+          RT @FDADeviceInfo: Do u rely on a medical device? Read these tips about device safety during #Sandy
+          'Ebola-proof' tablet device developed
+          #Argentina es el país con la mayor cantidad de psicólogos per cápita.
+   5 random points:
+          Medical research defender knighted
+          Medical research defender knighted
+          Medical research defender knighted
+          RT @FDADeviceInfo: Do u rely on a medical device? Read these tips about device safety during #Sandy
+          Happy #WAAD! Read this inspiring story, then share yours
+
+Medoids cluster 35 (size=2): Helping kids heal after tragedy
+   2 nearest points:
+          Helping kids heal after tragedy
+          @PHWFF: Helping wounded soldiers, vets heal through fly fishing 
+   5 random points:
+          Helping kids heal after tragedy
+          Helping kids heal after tragedy
+          @PHWFF: Helping wounded soldiers, vets heal through fly fishing 
+          Helping kids heal after tragedy
+          Helping kids heal after tragedy
+
+Medoids cluster 36 (size=8): 12 ways to keep the weight off -- without dieting:
+   5 nearest points:
+          The 9 worst ways to treat #depression
+          12 ways to keep the weight off -- without dieting:
+          12 ways to keep the weight off -- without dieting:
+          The 9 worst ways to treat #depression
+          10 ways to cut 100 calories -- just like that!
+   5 random points:
+          10 ways to cut 100 calories TODAY
+          The 9 worst ways to treat #depression
+          10 ways to cut 100 calories -- just like that!
+          The 9 worst ways to treat #depression
+          12 ways to keep the weight off -- without dieting:
+
+Medoids cluster 37 (size=2): VIDEO: MPs to vote on three-person babies
+   2 nearest points:
+          VIDEO: MPs to vote on three-person babies
+          Churches oppose three-person babies
+   5 random points:
+          VIDEO: MPs to vote on three-person babies
+          Churches oppose three-person babies
+          Churches oppose three-person babies
+          VIDEO: MPs to vote on three-person babies
+          VIDEO: MPs to vote on three-person babies
+
+Medoids cluster 38 (size=1): New ovarian cancer test developed
+   1 nearest points:
+          New ovarian cancer test developed
+   5 random points:
+          New ovarian cancer test developed
+          New ovarian cancer test developed
+          New ovarian cancer test developed
+          New ovarian cancer test developed
+          New ovarian cancer test developed
+
+Medoids cluster 39 (size=26): Scientists are using fewer incisions and making tumors glow. See the future of surgery:
+   5 nearest points:
+          Scientists are using fewer incisions and making tumors glow. See the future of surgery:
+          Just say yes? College students are increasingly using ADHD drugs as study aids
+          Red meat, and 6 more surprising foods that'll spike your blood sugar:
+          Red meat, and 6 more surprising foods that'll spike your blood sugar:
+          The best foods to eat to keep your teeth bright and white
+   5 random points:
+          Isaac strands disabled son and mother
+          Red meat, and 6 more surprising foods that'll spike your blood sugar:
+          Isaac strands disabled son and mother
+          Red meat, and 6 more surprising foods that'll spike your blood sugar:
+          U.S. Minorities Less Likely to Get #ColonCancer Screening
+
+Medoids cluster 40 (size=40): RT @cnnbrk: Officials: Second health care worker at Texas hospital who cared for Thomas Eric Duncan tested positive for Ebola.
+   5 nearest points:
+          @Jenni_Cal working on a story about people who get injections for back pain... please email me at Jacque.Wilson@turner.com
+          China approves experimental #Ebola vaccine for clinical trials
+          RT @cnnbrk: Officials: Second health care worker at Texas hospital who cared for Thomas Eric Duncan tested positive for Ebola.
+          MT @UMHealthSystem: #Pregnant women who #snore are at higher risk for #Csections, delivering #smallbabies:
+          Up all night? Hands-off approaches OK for sleepless infants, study says
+   5 random points:
+          Tiny step forward for spinal cord injuries
+          Baby ashes report calls for new laws
+          Call for national dementia database
+          The top colleges for socially awkward students are...
+          RT @cnnbrk: Officials: Second health care worker at Texas hospital who cared for Thomas Eric Duncan tested positive for Ebola.
+
+Medoids cluster 41 (size=13): Polio-like illness found in 5 children in California
+   5 nearest points:
+          Q2: How is heart disease different in women than heart disease in men? #HealthTalk
+          Polio-like illness found in 5 children in California
+          Children in adult psychiatric wards
+          Ebola 'more deadly' in young children
+          What a heart attack feels like in women (it's different than in men)
+   5 random points:
+          In pictures: Mali’s motorbiking eye surgeons
+          Treating hair loss in men
+          'Human corneas re-grown in mice'
+          'Human corneas re-grown in mice'
+          In pictures: Mali’s motorbiking eye surgeons
+
+Medoids cluster 42 (size=38): Staring Down #Cancer: A cause for celebration: FDA fast-tracks breast cancer drug
+   5 nearest points:
+          New test can determine effectiveness of #cancer treatment within 16 hours
+          Staring Down #Cancer: A cause for celebration: FDA fast-tracks breast cancer drug
+          Teenager with brain #cancer organizes massive toy drive at Michigan hospital
+          RT @MoffittNews: Elizabeth Landau’s Empowered Patient series on Hispanic breast cancer disparities is a must read:
+          Sticking to a plant-based diet that includes fish could reduce your risk for colon cancer.
+   5 random points:
+          Walking 'cuts breast cancer risk'
+          Skin cancer trial results 'exciting'
+          Exercise tied to prostate cancer survival
+          Cancer carers 'need more training'
+          #Lesbians may be at heightened risk of cervical #cancer, study says
+
+Medoids cluster 43 (size=1): @harriet75 Great!
+   1 nearest points:
+          @harriet75 Great!
+   5 random points:
+          @harriet75 Great!
+          @harriet75 Great!
+          @harriet75 Great!
+          @harriet75 Great!
+          @harriet75 Great!
+
+Medoids cluster 44 (size=1): VIDEO: 'Numerous opportunities missed'
+   1 nearest points:
+          VIDEO: 'Numerous opportunities missed'
+   5 random points:
+          VIDEO: 'Numerous opportunities missed'
+          VIDEO: 'Numerous opportunities missed'
+          VIDEO: 'Numerous opportunities missed'
+          VIDEO: 'Numerous opportunities missed'
+          VIDEO: 'Numerous opportunities missed'
+
+Medoids cluster 45 (size=29): Who knew? Copper in hospital rooms may stop infections
+   5 nearest points:
+          High rates of child deaths from #Ebola, special care needed, WHO says
+          Hospital infections 'still too high'
+          In mysterious case, hospital sees second death from cyanide poisoning
+          Who knew? Copper in hospital rooms may stop infections
+          VIDEO: PM challenged on girl's hospital letter
+   5 random points:
+          Pharmacy error led to patient death, hospital confirms
+          Olympic borough Newham 'least active'
+          £250m children's hospital announced
+          Hospital investigation cost £19.5m
+          Warning on 'too many' A&amp;E admissions
+
+Medoids cluster 46 (size=52): Smoking pot for a long time can change your brain, new study also shows a lower IQ with long term users
+   5 nearest points:
+          Rehab may give young adults addicted to opiates best chance at long-term abstinence, study finds
+          Researchers call ovarian cancer a "public health crisis" and are looking for better ways to treat this killer of women:
+          Smoking pot for a long time can change your brain, new study also shows a lower IQ with long term users
+          This video game may help aging brain, study says #health
+          One more reason to eat fatty fish! New study shows it may prevent #rheumatoid #arthritis
+   5 random points:
+          Regular binge drinking might raise risk of type 2 #diabetes, a new study finds:
+          Mom's blood pressure may affect baby's IQ
+          Good 'First Time' Sex May Set Stage for Future Enjoyment
+          Life With Multiple Sclerosis: 'At Least it's Only #MS, Not Cancer' REALLY?!?!
+          Men really don’t feel their partner’s pain, study finds
+
+Medoids cluster 47 (size=1): RT @HealthCareTara:
+   1 nearest points:
+          RT @HealthCareTara:
+   5 random points:
+          RT @HealthCareTara:
+          RT @HealthCareTara:
+          RT @HealthCareTara:
+          RT @HealthCareTara:
+          RT @HealthCareTara:
+
+Medoids cluster 48 (size=2): Why our noses are different shapes
+   2 nearest points:
+          Why our noses are different shapes
+          Why our noses are different shapes
+   5 random points:
+          Why our noses are different shapes
+          Why our noses are different shapes
+          Why our noses are different shapes
+          Why our noses are different shapes
+          Why our noses are different shapes
+
+Medoids cluster 49 (size=55): Yikes! RT @cspi: A5 Most unhealthy dish we found is Bistro Shrimp Pasta from @Cheesecake Factory: 3,120 cals, 89 grams sat fat #healthtalk
+   5 nearest points:
+          Yikes! RT @cspi: A5 Most unhealthy dish we found is Bistro Shrimp Pasta from @Cheesecake Factory: 3,120 cals, 89 grams sat fat #healthtalk
+          Stricter controls needed after surge in #marijuana-related illnesses, US anti-pot group says
+          .@kristenejonesrn Not before symptoms. But survivors are warned that virus can live in semen, breast milk after recovery  #EbolaQandA
+          RT @TIMEHealth: Your Thanksgiving dinner is equivalent to 7 Whoppers from Burger King
+          We knew at some point this would happen @DrFriedenCDC says about #Ebola patient diagnosed in U.S.
+   5 random points:
+          Poor sleep in old age may be linked to forgetfulness. How's your memory?
+          Disabled protein plays role in progression of some forms of ALS, study finds
+          Details emerge about Joan Rivers death after lawsuit filed from @jechristensen
+          Yikes! RT @cspi: A5 Most unhealthy dish we found is Bistro Shrimp Pasta from @Cheesecake Factory: 3,120 cals, 89 grams sat fat #healthtalk
+          Make sure to watch @drsanjaygupta documentary "Weed 2: Cannabis Madness" on @CNN tonight at 9 pm ET!
+
+Medoids cluster 50 (size=20): RT @CNN: Quarantined #Ebola patients talk with @elizcohencnn in Liberia.
+   5 nearest points:
+          RT @CNN: Quarantined #Ebola patients talk with @elizcohencnn in Liberia.
+          #Ebola cases near 16,000, Seirra Leone to overtake Liberia soon with most cases: WHO
+          '80 had contact' with US Ebola man
+          VIDEO: 'We have poured in Ebola resources'
+          New Ebola infections continue to drop; Guinea still a concern 
+   5 random points:
+          VIDEO: 'We have poured in Ebola resources'
+          '80 had contact' with US Ebola man
+          British medic declared free of Ebola
+          Liberian Ebola patients 'found'
+          New Ebola cases 'rise in 2015'
+
+Medoids cluster 51 (size=1): NHS 'Masterchef' contest launched
+   1 nearest points:
+          NHS 'Masterchef' contest launched
+   5 random points:
+          NHS 'Masterchef' contest launched
+          NHS 'Masterchef' contest launched
+          NHS 'Masterchef' contest launched
+          NHS 'Masterchef' contest launched
+          NHS 'Masterchef' contest launched
+
+Medoids cluster 52 (size=41): Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+   5 nearest points:
+          Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+          Living with atrial fibrillation? How medication for type 2 diabetes may help, according to new research:
+          RT @danmaurer: Just call me Methuselah..."@cnnhealth: New research says being overweight (not obese) may lead to a longer life. 
+          Living with type 2 #diabetes, American Idol @YO_RANDYJACKSON's story:
+          RT @EinsteinMed: Women w/gestational diabetes have high risk of developing type 2 RT @Hips_47 Also Lets Not forget About Gestational Diabetes #healthtalk
+   5 random points:
+          Diets high in fructose may harm your liver
+          Laser hope on root canal treatments
+          Older Drug May Help Fight #Obesity, #Diabetes, #Liver Disease
+          'Innovative' intervention helps babies at high risk of #autism
+          Psychoactive Amazonian medicine gaining popularity, may treat health disorders
+
+Medoids cluster 53 (size=30): Decorating, cooking, drinking...  the holidays can be hazardous. Share past injuries using #holidayhurt. Responses could be on CNN!
+   5 nearest points:
+          Decorating, cooking, drinking...  the holidays can be hazardous. Share past injuries using #holidayhurt. Responses could be on CNN!
+          Move over #greentea! This may be the new healthiest tea in town:
+          @cbpolis Would love to hear how we can make an effort to be more accurate! Pls email Jacque.Wilson@turner.com
+          Today is #raredisease day. We and @cnnireport will be sharing stories of bravery in the face of difficult diagnoses.
+          Thousands of recalled AEDs may not be able to deliver the necessary shock in a cardiac emergency
+   5 random points:
+          @cbpolis Would love to hear how we can make an effort to be more accurate! Pls email Jacque.Wilson@turner.com
+          Biggest hospital to be handed over
+          Broccoli might not be your favorite veggie, but here are 8 reasons it should be!
+          Waiting for Mr. Right may be an evolutionary wrong
+          Cause of teen's #headache turns out to be ... #bullet fragment
+
+Medoids cluster 54 (size=1): Nursery toothbrushing saves £6m
+   1 nearest points:
+          Nursery toothbrushing saves £6m
+   5 random points:
+          Nursery toothbrushing saves £6m
+          Nursery toothbrushing saves £6m
+          Nursery toothbrushing saves £6m
+          Nursery toothbrushing saves £6m
+          Nursery toothbrushing saves £6m
+
+Medoids cluster 55 (size=1): 'Handroid' helps injured marine
+   1 nearest points:
+          'Handroid' helps injured marine
+   5 random points:
+          'Handroid' helps injured marine
+          'Handroid' helps injured marine
+          'Handroid' helps injured marine
+          'Handroid' helps injured marine
+          'Handroid' helps injured marine
+
+Medoids cluster 56 (size=48): RT @AllergyReliefNY: .@cnnhealth what's good for you is bad for you &amp; vice versa. Too clean first 1-2 yr of life is not beneficial for immu…
+   5 nearest points:
+          Is "affluenza" real? Or is it a way for coddled children and adolescents to evade consequences for their actions?http://cnn.it/1dadIoy
+          RT @iusandra_sandra: @foxnewshealth @FoxNews Thank you for your excellent work on this article. We are grateful to get her story out.
+          RT @AllergyReliefNY: .@cnnhealth what's good for you is bad for you &amp; vice versa. Too clean first 1-2 yr of life is not beneficial for immu…
+          RT @DartMedNews: A2: Pinterest is a great way to find new ideas and recipes for healthy, fun snacks.  Love this board
+          Do you use an online tracker or food journal for your #weightloss goals? learn which is better:
+   5 random points:
+          Feeling blah? Here's how to eat for better energy:
+          AUDIO: NHS 'should pay for slimming class joiners'
+          Cool! @axsmap app notes obstacles for disabled to make daily travel a little easier
+          RT @EinsteinMed: A3: Weight loss (7% of body weight) &amp; moderate intensity exercise (like brisk walking) for 150 minutes/week. -DrC #healthtalk
+          RT @AllergyReliefNY: .@cnnhealth what's good for you is bad for you &amp; vice versa. Too clean first 1-2 yr of life is not beneficial for immu…
+
+Medoids cluster 57 (size=1): 'Ancient humans' used toothpicks
+   1 nearest points:
+          'Ancient humans' used toothpicks
+   5 random points:
+          'Ancient humans' used toothpicks
+          'Ancient humans' used toothpicks
+          'Ancient humans' used toothpicks
+          'Ancient humans' used toothpicks
+          'Ancient humans' used toothpicks
+
+Medoids cluster 58 (size=42): Q4 @lizzyrose1982 Why is it so hard to get a diagnoses for a child? My daughter has "mood disorder" #cnnparents
+   5 nearest points:
+          Why is Glasgow the UK’s sickest city?
+          RT @roniselig: Huge Congrats to @elizcohencnn with @JBONIFIELDCNN winning #Gracie 2015 award-Orig Online series #Ebola
+          Has your kid lost all common sense? Why teen brains are drawn to risk
+          Q4 @lizzyrose1982 Why is it so hard to get a diagnoses for a child? My daughter has "mood disorder" #cnnparents
+          There's still a lot of flu season left. Here's how to stay safe from the current flu epidemic:
+   5 random points:
+          #Canada says husband of woman diagnosed with avian #flu also infected
+          Pharmacy recalls steroid injections after 7 get abscesses
+          India battles dengue fever outbreak
+          A Florida patient with #MERS has recovered and gone home
+          There's still a lot of flu season left. Here's how to stay safe from the current flu epidemic:
+
+Medoids cluster 59 (size=1): The 7 biggest antidepressant problems, solved
+   1 nearest points:
+          The 7 biggest antidepressant problems, solved
+   5 random points:
+          The 7 biggest antidepressant problems, solved
+          The 7 biggest antidepressant problems, solved
+          The 7 biggest antidepressant problems, solved
+          The 7 biggest antidepressant problems, solved
+          The 7 biggest antidepressant problems, solved

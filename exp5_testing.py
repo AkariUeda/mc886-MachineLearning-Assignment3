@@ -44,7 +44,6 @@ idx_clusters = np.array([np.where(labels==i) for i in range(number_of_clusters)]
 clusters = np.array([test_set[np.where(labels==i)] for i in range(number_of_clusters)])
 
 metrics = evaluate(np.copy(train_set), np.copy(test_set), algorithm='kmeans', normalize=False, use_pca=True, pca_variance=0.9)
-print(metrics)
 
 for c in range(number_of_clusters):
 
